@@ -1,0 +1,169 @@
+Gtm,Date,,Opp,Rslt,IP,H,R,ER,UER,BB,SO,HR,HBP,ERA,BF,Pit,Str,IR,IS,SB,CS,AB,2B,3B,IBB,SH,SF,ROE,GDP,#,Umpire,Pitchers Used (Rest-GameScore-Dec)
+2016
+1,Apr 4,,SFG,"L,3-12",9.0,15,12,11,1,5,3,4,0,11.00,46,187,115,1,0,1,0,40,3,0,0,0,1,1,1,5,Brian Gorman,"W.Peralta (99-32-L), C.Torres (99), C.Capuano (99), A.Pena (99), B.Boyer (99)",2016
+2,Apr 5,,SFG,"L,1-2",9.0,7,2,2,0,2,5,1,0,6.50,35,109,72,1,0,1,1,33,1,0,1,0,0,0,0,3,Mark Carlson,"J.Nelson (99-62-L), M.Blazek (99), J.Jeffress (99)",2016
+3,Apr 6,,SFG,"W,4-3",9.0,6,3,2,1,4,3,1,0,5.00,35,143,85,1,1,0,1,30,1,1,1,0,1,0,1,6,Mike DiMuro,"T.Jungmann (99-54), C.Capuano (1-H), B.Boyer (1-BSv), T.Thornburg (99-W), M.Blazek (0-H), J.Jeffress (0-Sv)",2016
+4,Apr 8,,HOU,"W,6-4",9.0,9,4,4,0,3,8,1,0,4.75,37,162,92,1,1,1,1,34,4,0,0,0,0,0,0,5,Tom Hallion,"C.Anderson (99-64-W), C.Torres (3), T.Thornburg (1), S.Freeman (99), J.Jeffress (1-Sv)",2016
+5,Apr 9,,HOU,"L,4-6",9.0,9,6,6,0,4,5,3,0,5.00,37,137,83,1,0,2,0,30,0,0,0,1,2,0,2,5,Phil Cuzzi,"W.Peralta (4-25-L), B.Boyer (2), T.Cravy (99), C.Capuano (2), M.Blazek (2)",2016
+6,Apr 10,,HOU,"W,3-2",9.0,3,2,2,0,5,13,2,0,4.50,33,147,92,1,0,1,3,28,0,0,0,0,0,1,0,4,Dan Bellino,"J.Nelson (4-63-W), T.Thornburg (1-H), M.Blazek (0-H), J.Jeffress (1-Sv)",2016
+7,Apr 11,@,STL,"L,1-10",8.0,19,10,10,0,2,7,0,0,5.37,44,170,116,2,2,1,0,40,8,2,0,0,2,1,1,5,Bill Welke,"T.Jungmann (4-9-L), T.Cravy (1), C.Capuano (1), S.Freeman (2), C.Torres (2)",2016
+8,Apr 13,@,STL,"W,6-4",9.0,6,4,1,3,2,5,1,0,4.82,34,138,87,0,0,0,1,31,3,0,0,1,0,1,0,4,Vic Carapazza,"C.Anderson (4-60), T.Thornburg (2-H), M.Blazek (2-BW), J.Jeffress (2-Sv)",2016
+9,Apr 14,@,STL,"L,0-7",8.0,11,7,7,0,3,9,2,1,5.13,38,151,92,0,0,0,1,32,4,0,0,1,1,0,0,3,Bill Miller,"W.Peralta (4-36-L), C.Capuano (2), S.Freeman (2)",2016
+10,Apr 15,@,PIT,"W,8-4",9.0,8,4,2,2,4,6,1,0,4.81,40,135,84,0,0,3,0,36,2,0,0,0,0,1,0,4,Marvin Hudson,"J.Nelson (4-51-W), M.Blazek (1-H), T.Thornburg (1-H), J.Jeffress (1)",2016
+11,Apr 16,@,PIT,"L,0-5",8.0,8,5,5,0,6,8,1,1,4.88,37,150,85,0,0,1,1,29,2,1,0,0,1,0,1,3,James Hoye,"T.Jungmann (4-49-L), C.Torres (4), S.Freeman (1)",2016
+12,Apr 17,@,PIT,"L,3-9",8.0,17,9,8,1,7,2,2,0,5.19,47,181,111,4,1,0,1,39,3,0,1,0,1,1,1,6,Chad Fairchild,"Z.Davies (99-16-L), T.Cravy (5), C.Capuano (2), B.Boyer (7), C.Torres (0), S.Freeman (0)",2016
+13,Apr 18,@,MIN,"L,4-7",6.0,14,7,6,1,1,5,2,0,5.40,32,132,87,2,0,1,0,31,3,1,0,0,0,0,1,3,Mike Everitt,"C.Anderson (4-31-L), B.Boyer (0), T.Cravy (0)",2016
+14,Apr 19,@,MIN,"W,6-5",9.0,8,5,5,0,6,5,2,0,5.37,40,168,96,4,0,0,0,34,1,0,0,0,0,0,1,4,Tim Timmons,"W.Peralta (4-47), M.Blazek (3-H), T.Thornburg (3-BW), J.Jeffress (3-Sv)",2016
+15,Apr 20,,MIN,"W,10-5",9.0,12,5,5,0,3,9,2,0,5.34,40,136,91,1,0,0,0,37,3,0,0,0,0,0,2,4,Sean Barber,"J.Nelson (4-43-W), C.Torres (2-H), B.Boyer (1), T.Cravy (1)",2016
+16,Apr 21,,MIN,"L,1-8",9.0,11,8,8,0,9,6,2,0,5.52,45,171,100,2,0,1,0,33,3,0,0,1,2,0,2,4,Jordan Baker,"T.Jungmann (4-38-L), C.Capuano (3), C.Torres (0), S.Freeman (3)",2016
+17,Apr 22,,PHI,"L,2-5",9.0,10,5,5,0,1,7,2,1,5.49,37,145,89,0,0,1,2,35,1,1,0,0,0,0,0,3,Rob Drake,"Z.Davies (4-42-L), C.Capuano (0), B.Boyer (1)",2016
+18,Apr 23,,PHI,"L,6-10",9.0,13,10,10,0,6,9,2,1,5.75,47,200,123,0,0,2,0,39,1,0,0,1,0,1,1,5,Carlos Torres,"C.Anderson (4-20-L), C.Torres (1), M.Blazek (3), T.Thornburg (3), J.Jeffress (3)",2016
+19,Apr 24,,PHI,"W,8-5",9.0,10,5,4,1,0,9,0,1,5.65,36,130,82,0,0,0,1,34,2,1,0,0,1,0,1,4,Jim Wolf,"W.Peralta (4-49-W), M.Blazek (0), T.Thornburg (0-H), J.Jeffress (0-Sv)",2016
+20,Apr 26,@,CHC,"L,3-4",8.0,7,4,2,2,6,9,0,0,5.49,38,167,95,2,2,1,0,30,2,1,0,1,1,1,0,4,Larry Vanover,"J.Nelson (5-58-L), C.Torres (2), B.Boyer (3), M.Blazek (1)",2016
+21,Apr 28,@,CHC,"L,2-7",8.0,8,7,7,0,11,5,1,2,5.60,45,199,103,3,0,0,0,32,2,0,0,0,0,0,0,4,Alfonso Marquez,"T.Jungmann (6-28-L), C.Capuano (5), S.Freeman (6), C.Torres (1)",2016
+22,Apr 29,,MIA,"L,3-6",9.0,10,6,6,0,4,8,2,1,5.62,38,152,93,0,0,1,0,32,3,0,0,1,0,0,1,3,Dan Bellino,"Z.Davies (6-41-L), B.Boyer (2), D.Goforth (99)",2016
+23,Apr 30,,MIA,"L,5-7",9.0,14,7,6,1,9,12,4,0,5.64,51,197,123,2,1,0,0,41,2,0,1,1,0,1,0,5,Adam Hamari,"C.Anderson (6-23-L), C.Capuano (1), M.Blazek (3), C.Torres (1), T.Thornburg (5)",2016
+2016
+24,May 1,,MIA,"W,14-5",9.0,16,5,5,0,2,0,1,0,5.61,43,152,93,2,0,0,0,40,2,1,0,1,0,0,2,4,Kerwin Danley,"W.Peralta (6-22-W), B.Boyer (1), D.Goforth (1), J.Jeffress (6)",2016
+25,May 2,,LAA,"W,8-5",9.0,11,5,5,0,4,7,1,0,5.58,42,149,93,0,0,1,0,37,2,0,0,1,0,0,0,3,Clint Fagan,"J.Nelson (5-64-W), M.Blazek (1), J.Jeffress (0)",2016
+26,May 3,,LAA,"W,5-4",9.0,9,4,4,0,3,5,0,0,5.52,35,116,76,0,0,0,0,32,1,0,0,0,0,0,2,4,Bill Welke,"J.Guerra (99-44-W), M.Blazek (0-H), T.Thornburg (2-H), J.Jeffress (0-Sv)",2016
+27,May 4,,LAA,"L,3-7",9.0,12,7,7,0,5,5,1,0,5.58,42,164,106,2,2,1,1,36,2,1,1,1,0,0,0,5,D.J. Reyburn,"Z.Davies (4-54), C.Torres (3-H), T.Thornburg (0-BL), B.Boyer (2), D.Goforth (2)",2016
+28,May 5,@,CIN,"L,5-9",8.0,9,9,8,1,3,10,3,0,5.69,37,139,85,0,0,0,0,33,4,0,0,0,1,1,0,3,Adrian Johnson,"C.Anderson (4-31-L), C.Capuano (4), D.Goforth (0)",2016
+29,May 6,@,CIN,"L,1-5",8.0,6,5,5,0,3,8,2,0,5.69,32,131,84,0,0,0,0,29,2,0,0,0,0,0,0,4,Gary Cederstrom,"T.Cravy (15-32-L), C.Torres (1), B.Boyer (1), M.Blazek (2)",2016
+30,May 7,@,CIN,"W,13-7",10.0,11,7,6,1,1,10,2,1,5.68,42,156,105,0,0,3,0,40,1,0,0,0,0,0,1,6,Jim Wolf,"J.Nelson (4-33), B.Boyer (0), M.Blazek (0), T.Thornburg (2), J.Jeffress (3-W), C.Torres (0)",2016
+31,May 8,@,CIN,"W,5-4",9.0,6,4,4,0,3,8,1,0,5.62,35,138,88,0,0,0,1,31,1,1,0,1,0,0,0,4,Sean Barber,"J.Guerra (4-52), C.Capuano (2-W), T.Thornburg (0-H), J.Jeffress (0-Sv)",2016
+32,May 9,@,MIA,"L,1-4",8.0,12,4,4,0,5,6,0,0,5.59,38,141,79,0,0,0,0,33,1,1,0,0,0,1,2,3,Mark Carlson,"W.Peralta (7-46-L), M.Kirkman (11), C.Torres (1)",2016
+33,May 10,@,MIA,"W,10-2",9.0,8,2,2,0,3,4,0,0,5.48,37,142,88,0,0,1,0,34,3,0,0,0,0,0,0,3,Mike DiMuro,"Z.Davies (5-47-W), B.Boyer (2), C.Capuano (1)",2016
+34,May 11,@,MIA,"L,2-3",8.0,5,3,3,0,1,6,1,0,5.42,29,110,64,0,0,0,1,27,1,0,0,0,1,0,0,3,Ryan Blakney,"C.Anderson (5-57-L), M.Blazek (3), C.Torres (1)",2016
+35,May 12,,SDP,"L,0-3",9.0,7,3,3,0,1,7,1,1,5.35,35,115,77,0,0,1,0,31,2,0,0,1,1,0,0,2,Jeff Nelson,"J.Nelson (4-68-L), T.Thornburg (3)",2016
+36,May 13,,SDP,"W,1-0",9.0,3,0,0,0,2,8,0,0,5.19,31,125,84,0,0,1,1,29,1,0,0,0,0,2,2,4,Laz Diaz,"J.Guerra (4-70-W), M.Blazek (1-H), T.Thornburg (0-H), J.Jeffress (4-Sv)",2016
+37,May 14,,SDP,"L,7-8",12.0,13,8,8,0,5,7,4,0,5.22,51,194,117,1,0,3,1,46,4,0,0,0,0,0,2,7,Manny Gonzalez,"W.Peralta (4-24), C.Torres (2), B.Boyer (3), M.Blazek (0), J.Jeffress (0), T.Thornburg (0), C.Capuano (3-L)",2016
+38,May 15,,SDP,"W,3-2",9.0,7,2,2,0,0,7,1,0,5.14,34,135,95,0,0,0,0,33,1,1,0,0,1,0,0,4,Ben May,"Z.Davies (4-65), B.Boyer (0-W), M.Blazek (0-H), J.Jeffress (0-Sv)",2016
+39,May 17,,CHC,"W,4-2",9.0,3,2,2,0,1,7,2,0,5.05,31,114,74,0,0,1,0,30,1,0,0,0,0,0,0,2,Chris Guccione,"C.Anderson (5-75-W), J.Jeffress (1-Sv)",2016
+40,May 18,,CHC,"L,1-2",13.0,10,2,2,0,8,9,0,3,4.92,55,208,127,2,0,1,2,44,2,0,3,0,0,0,3,6,David Rackley,"J.Nelson (5-69), T.Thornburg (3-H), J.Jeffress (0-BSv), M.Blazek (2), B.Boyer (2), C.Torres (3-L)",2016
+41,May 19,,CHC,"W,5-3",9.0,6,3,3,0,6,15,1,0,4.87,38,164,98,0,0,0,0,32,2,1,0,0,0,0,0,3,Larry Vanover,"J.Guerra (5-63-W), M.Blazek (0-H), T.Thornburg (0-Sv)",2016
+42,May 20,@,NYM,"L,2-3",8.0,7,3,3,0,3,11,1,2,4.84,35,148,89,3,0,0,1,30,0,0,0,0,0,0,0,3,Jim Wolf,"W.Peralta (5-49-L), C.Torres (1), C.Capuano (5)",2016
+43,May 21,@,NYM,"L,4-5",8.1,9,5,5,0,6,7,2,0,4.85,38,152,87,0,0,0,1,31,1,0,1,1,0,0,1,5,Adrian Johnson,"Z.Davies (5-45), B.Boyer (2), C.Torres (0), T.Thornburg (1), M.Blazek (1-L)",2016
+44,May 22,@,NYM,"L,1-3",8.0,6,3,3,0,3,11,1,0,4.82,33,150,91,0,0,0,0,30,1,0,0,0,0,0,0,3,Gary Cederstrom,"C.Anderson (4-51-L), J.Marinez (18), J.Jeffress (3)",2016
+45,May 24,@,ATL,"W,2-1",9.0,5,1,1,0,4,9,0,1,4.73,35,146,96,0,0,0,1,29,1,1,0,1,0,0,0,4,Adam Hamari,"J.Nelson (5-65), M.Blazek (2-W), T.Thornburg (2-H), J.Jeffress (1-Sv)",2016
+46,May 25,@,ATL,"W,3-2",13.0,9,2,2,0,5,12,1,0,4.63,51,200,128,0,0,0,2,46,0,0,0,0,0,0,0,7,Tom Hallion,"J.Guerra (5-61), C.Capuano (4-BSv), B.Boyer (3), T.Thornburg (0), J.Jeffress (0), M.Blazek (0-W), C.Torres (3-Sv)",2016
+47,May 26,@,ATL,"W,6-2",9.0,8,2,2,0,4,8,1,1,4.57,39,159,99,2,0,0,0,34,2,0,0,0,0,0,0,3,Tony Randazzo,"W.Peralta (5-48-W), J.Marinez (3-H), C.Torres (0-Sv)",2016
+48,May 27,,CIN,"W,9-5",9.0,6,5,2,3,0,8,2,0,4.52,33,123,86,1,0,0,1,32,0,0,0,0,1,1,0,4,Marvin Hudson,"Z.Davies (5-47-W), B.Boyer (1-H), T.Thornburg (1), J.Jeffress (1)",2016
+49,May 28,,CIN,"L,6-7",9.0,11,7,7,0,1,8,1,4,4.57,42,171,108,2,0,0,0,37,4,0,0,0,0,0,1,6,James Hoye,"C.Anderson (5-56), C.Torres (1-H), M.Blazek (2), J.Marinez (1), J.Jeffress (0-L), D.Goforth (22)",2016
+50,May 29,,CIN,"W,5-4",9.0,9,4,4,0,2,6,1,2,4.56,36,132,87,1,0,1,2,32,1,0,0,0,0,0,2,3,Chad Fairchild,"J.Nelson (4-61-W), T.Thornburg (1-H), B.Boyer (1-Sv)",2016
+51,May 30,,STL,"L,0-6",9.0,12,6,5,1,0,11,1,0,4.57,39,150,102,0,0,0,0,39,3,0,0,0,0,0,1,3,Lance Barksdale,"J.Guerra (4-49-L), J.Marinez (1), D.Goforth (1)",2016
+52,May 31,,STL,"L,3-10",9.0,14,10,10,0,6,8,1,0,4.67,43,199,123,1,1,0,1,37,2,2,0,0,0,0,2,4,Angel Hernandez,"W.Peralta (4-37-L), C.Torres (2), D.Goforth (0), J.Marinez (0)",2016
+2016
+53,Jun 1,,STL,"W,3-1",9.0,4,1,1,0,0,10,1,0,4.60,30,120,84,0,0,0,0,30,0,0,0,0,0,0,1,2,Will Little,"Z.Davies (4-85-W), J.Jeffress (3-Sv)",2016
+54,Jun 2,@,PHI,"W,4-1",9.0,5,1,1,0,0,11,1,1,4.53,33,138,95,1,0,0,1,32,1,0,0,0,0,1,0,4,Jim Reynolds,"C.Anderson (4-65-W), W.Smith (99-H), T.Thornburg (3-H), J.Jeffress (0-Sv)",2016
+55,Jun 3,@,PHI,"L,3-6",8.0,7,6,6,0,4,6,2,0,4.57,33,108,64,0,0,0,0,29,1,0,0,0,0,0,1,5,Manny Gonzalez,"J.Nelson (4-22-L), N.Ramirez (15), B.Boyer (4), C.Torres (2), J.Barnes (99)",2016
+56,Jun 4,@,PHI,"W,6-3",9.0,7,3,3,0,2,4,2,0,4.54,36,131,76,0,0,0,0,33,1,1,0,1,0,0,0,4,CB Bucknor,"J.Guerra (4-49), W.Smith (1-W), T.Thornburg (1-H), J.Jeffress (1-Sv)",2016
+57,Jun 5,@,PHI,"L,1-8",8.0,13,8,7,1,2,2,3,0,4.59,38,141,89,2,2,2,0,35,1,1,1,1,0,0,1,4,Fieldin Culbreth,"W.Peralta (4-26-L), N.Ramirez (1), J.Barnes (1), J.Marinez (4)",2016
+58,Jun 7,,OAK,"W,5-4",9.0,5,4,4,0,3,8,1,0,4.58,35,142,89,0,0,0,0,32,2,0,0,0,0,1,1,3,Dana DeMuth,"Z.Davies (5-67-W), T.Thornburg (2-H), J.Jeffress (2-Sv)",2016
+59,Jun 8,,OAK,"W,4-0",9.0,3,0,0,0,0,5,0,0,4.51,30,119,75,1,0,0,0,30,1,0,0,0,0,1,1,3,Ed Hickox,"C.Anderson (5-74-W), B.Boyer (4), W.Smith (3)",2016
+60,Jun 9,,NYM,"L,2-5",9.0,13,5,5,0,3,8,1,1,4.51,42,154,89,3,0,0,0,37,4,0,0,1,0,0,1,5,Alfonso Marquez,"J.Nelson (5-47-L), C.Torres (5), C.Knebel (99), W.Smith (0), J.Barnes (3)",2016
+61,Jun 10,,NYM,"L,1-2",11.0,10,2,2,0,5,5,1,0,4.46,46,150,94,0,0,0,0,40,3,0,2,1,0,0,1,5,Larry Vanover,"J.Guerra (5-59), W.Smith (0), T.Thornburg (2), J.Jeffress (2), B.Boyer (1-L)",2016
+62,Jun 11,,NYM,"W,7-4",9.0,7,4,4,0,2,9,2,0,4.45,35,124,87,2,1,1,0,32,0,1,0,0,1,0,1,6,David Rackley,"W.Peralta (5-48-W), C.Torres (1-H), C.Knebel (1-H), T.Thornburg (0), J.Barnes (1), J.Jeffress (0-Sv)",2016
+63,Jun 12,,NYM,"W,5-3",9.0,7,3,2,1,2,10,0,0,4.41,37,156,100,3,1,0,0,35,3,0,0,0,0,2,0,5,Ramon De Jesus,"Z.Davies (4-70-W), B.Boyer (1), C.Torres (0), W.Smith (1-H), J.Jeffress (0-Sv)",2016
+64,Jun 13,@,SFG,"L,5-11",8.0,14,11,11,0,5,8,1,1,4.52,42,172,107,3,2,2,0,33,1,1,1,0,3,0,1,4,Kerwin Danley,"C.Anderson (4-44), C.Knebel (1-L), B.Boyer (0), J.Marinez (7)",2016
+65,Jun 14,@,SFG,"L,2-3",8.0,12,3,3,0,4,10,0,1,4.51,40,174,102,3,1,2,0,35,2,0,0,0,0,0,1,5,Andy Fletcher,"M.Garza (99-46), C.Knebel (0), C.Torres (1), W.Smith (1-L), J.Barnes (2)",2016
+66,Jun 15,@,SFG,"L,1-10",8.0,16,10,8,2,4,4,0,1,4.57,46,151,90,1,1,2,0,40,3,0,0,1,0,1,0,4,Joe West,"J.Nelson (5-16-L), J.Marinez (1), J.Barnes (0), B.Boyer (1)",2016
+67,Jun 16,@,LAD,"W,8-6",9.0,8,6,5,1,2,8,1,2,4.57,38,138,83,1,1,1,0,33,1,0,0,0,1,0,0,4,Ryan Blakney,"J.Guerra (5-41), W.Smith (1-BSv), T.Thornburg (4-W), J.Jeffress (3-Sv)",2016
+68,Jun 17,@,LAD,"L,2-3",9.1,8,3,3,0,3,8,2,1,4.55,39,140,89,0,0,0,0,34,1,0,2,1,0,0,1,4,Mike Everitt,"Z.Davies (4-68), T.Thornburg (0-BSv), W.Smith (0), J.Jeffress (0-L)",2016
+69,Jun 18,@,LAD,"L,6-10",8.0,14,10,10,0,4,9,3,0,4.63,40,167,111,2,2,1,0,36,3,0,0,0,0,0,1,5,Jordan Baker,"C.Anderson (4-17-L), J.Marinez (2), J.Barnes (2), C.Torres (3), C.Knebel (3)",2016
+70,Jun 19,@,LAD,"L,1-2",8.2,8,2,2,0,2,6,1,1,4.60,35,116,74,0,0,0,0,31,1,0,0,1,0,1,1,4,Tim Timmons,"M.Garza (4-64), B.Boyer (3-H), W.Smith (1-BSv), T.Thornburg (1-L)",2016
+71,Jun 21,@,OAK,"L,3-5",8.0,13,5,2,3,4,4,0,1,4.57,41,190,113,4,1,0,0,36,2,2,0,0,0,1,2,5,Alan Porter,"J.Nelson (5-52), B.Boyer (1-BSv), W.Smith (1-L), M.Blazek (23), J.Barnes (2)",2016
+72,Jun 22,@,OAK,"W,4-2",9.0,5,2,2,0,2,9,1,1,4.53,35,130,83,1,0,1,0,32,1,0,0,0,0,0,0,3,Jeff Kellogg,"J.Guerra (5-66-W), W.Smith (0-H), T.Thornburg (2-Sv)",2016
+73,Jun 24,,WSN,"W,5-3",9.0,9,3,3,0,2,16,0,3,4.51,41,183,125,0,0,0,0,36,3,0,0,0,0,0,0,5,Ed Hickox,"Z.Davies (6-49), C.Torres (5-W), W.Smith (1-H), T.Thornburg (1-H), J.Jeffress (6-Sv)",2016
+74,Jun 25,,WSN,"W,6-5",9.0,10,5,5,0,5,1,0,0,4.52,41,131,83,2,1,0,0,32,2,1,0,1,3,1,1,5,Greg Gibson,"M.Garza (5-40-W), W.Smith (0-H), C.Torres (0-H), M.Blazek (3-H), J.Jeffress (0-Sv)",2016
+75,Jun 26,,WSN,"L,2-3",9.0,4,3,3,0,6,5,2,0,4.50,37,149,92,0,0,1,1,31,0,0,0,0,0,1,0,4,Mike Estabrook,"J.Nelson (4-61), J.Barnes (4-L), M.Blazek (0), B.Boyer (4)",2016
+76,Jun 28,,LAD,"L,5-6",9.0,12,6,5,1,5,7,0,1,4.50,44,157,99,2,1,1,0,38,2,1,1,0,0,0,1,5,Dan Bellino,"C.Anderson (9-22-L), C.Torres (2), B.Boyer (1), J.Marinez (9), J.Barnes (1)",2016
+77,Jun 29,,LAD,"W,7-0",9.0,2,0,0,0,2,8,0,0,4.45,30,121,74,0,0,0,0,28,1,0,0,0,0,0,1,2,Toby Basner,"J.Guerra (6-83-W), M.Blazek (2)",2016
+78,Jun 30,,LAD,"L,1-8",9.0,14,8,8,0,4,10,3,0,4.49,44,185,116,4,2,0,0,39,3,0,1,1,0,0,1,6,Tom Hallion,"Z.Davies (5-24-L), M.Blazek (0), J.Barnes (1), J.Marinez (1), B.Boyer (1), C.Torres (1)",2016
+2016
+79,Jul 1,@,STL,"L,1-7",8.0,11,7,4,3,5,7,0,0,4.49,40,137,87,1,0,0,0,35,2,0,0,0,0,2,1,2,Jerry Meals,"M.Garza (5-32-L), J.Marinez (0)",2016
+80,Jul 2,@,STL,"L,0-3",8.0,8,3,3,0,3,7,0,0,4.48,34,119,78,0,0,0,0,31,1,1,0,0,0,0,1,3,Sean Barber,"J.Nelson (5-46-L), C.Torres (1), W.Smith (6)",2016
+81,Jul 3,@,STL,"L,8-9",8.0,11,9,9,0,8,4,2,0,4.54,43,154,87,4,4,0,0,34,3,0,0,0,1,1,1,6,Ron Kulpa,"C.Anderson (4-40-L), J.Barnes (2), M.Blazek (2), B.Boyer (2), J.Marinez (1), J.Jeffress (7)",2016
+82,Jul 4,@,WSN,"W,1-0",9.0,2,0,0,0,3,7,0,0,4.49,32,136,76,0,0,0,0,29,0,0,1,0,0,0,0,3,Cory Blaser,"J.Guerra (4-79-W), W.Smith (1-H), J.Jeffress (0-Sv)",2016
+83,Jul 5,@,WSN,"W,5-2",9.0,12,2,2,0,2,4,0,0,4.46,37,131,84,5,0,0,1,35,1,0,0,0,0,0,2,5,Jeff Nelson,"Z.Davies (4-50-W), C.Torres (2), W.Smith (0-H), T.Thornburg (10-H), J.Jeffress (0-Sv)",2016
+84,Jul 6,@,WSN,"L,4-7",8.0,10,7,7,0,2,5,3,1,4.49,36,134,80,0,0,0,0,33,3,0,1,0,0,0,1,3,Greg Gibson,"M.Garza (4-19-L), M.Blazek (2), C.Torres (0)",2016
+85,Jul 8,,STL,"W,4-3",9.0,8,3,3,0,5,6,1,0,4.47,41,145,92,0,0,0,0,36,1,0,1,0,0,1,0,4,Will Little,"J.Nelson (5-50), T.Thornburg (2-H), W.Smith (2-BSv), J.Jeffress (2-W)",2016
+86,Jul 9,,STL,"L,1-8",9.0,10,8,8,0,7,8,3,0,4.52,43,186,104,0,0,0,0,36,3,1,0,0,0,0,0,6,Ted Barrett,"C.Anderson (5-46-L), J.Barnes (5), C.Torres (2), B.Boyer (5), M.Blazek (2), J.Marinez (5)",2016
+87,Jul 10,,STL,"L,1-5",9.0,12,5,3,2,3,11,2,1,4.50,43,171,108,2,0,0,0,38,3,0,0,1,0,1,1,4,Gabe Morales,"J.Guerra (5-45-L), T.Thornburg (1), W.Smith (1), J.Jeffress (1)",2016
+88,Jul 15,@,CIN,"L,4-5",8.0,9,5,5,0,3,7,0,0,4.51,35,132,87,2,2,1,0,32,3,0,0,0,0,0,1,4,Brian Gorman,"M.Garza (8-41-L), C.Torres (5-BSv), B.Boyer (5), C.Knebel (26)",2016
+89,Jul 16,@,CIN,"W,9-1",9.0,9,1,1,0,3,8,0,1,4.47,39,127,82,0,0,1,0,35,1,0,0,0,0,0,1,3,Quinn Wolcott,"J.Nelson (7-70-W), J.Barnes (6), J.Marinez (6)",2016
+90,Jul 17,@,CIN,"L,0-1",8.2,4,1,0,1,2,7,0,0,4.42,30,128,78,1,1,1,1,28,0,0,0,0,0,0,1,3,Mark Carlson,"Z.Davies (11-74), T.Thornburg (6-L), W.Smith (6)",2016
+91,Jul 19,@,PIT,"L,2-3",8.0,5,3,2,1,4,9,0,0,4.40,34,146,88,0,0,1,0,29,0,2,0,0,1,1,1,4,Rob Drake,"J.Guerra (8-61), C.Knebel (3), J.Jeffress (8), T.Thornburg (1-L)",2016
+92,Jul 20,@,PIT,"W,9-5",9.0,11,5,4,1,2,8,0,0,4.39,39,161,99,0,0,1,1,36,6,0,0,1,0,0,0,6,Sam Holbrook,"C.Anderson (10-38), C.Torres (4-W), J.Barnes (3), T.Thornburg (0-H), W.Smith (2), J.Jeffress (0)",2016
+93,Jul 21,@,PIT,"L,3-5",8.0,11,5,4,1,3,3,1,0,4.40,36,125,79,0,0,0,0,33,1,0,0,0,0,0,2,3,Gerry Davis,"M.Garza (5-34-L), J.Marinez (4), B.Boyer (5)",2016
+94,Jul 22,,CHC,"L,2-5",9.0,8,5,3,2,4,6,1,1,4.38,39,136,78,0,0,1,1,33,2,1,0,0,1,2,1,4,CB Bucknor,"J.Nelson (5-47-L), C.Torres (1), C.Knebel (2), B.Boyer (0)",2016
+95,Jul 23,,CHC,"W,6-1",9.0,6,1,1,0,2,7,0,0,4.34,34,135,84,1,1,1,0,32,1,0,0,0,0,0,1,4,Fieldin Culbreth,"Z.Davies (5-65-W), W.Smith (2-H), T.Thornburg (2-H), C.Torres (0)",2016
+96,Jul 24,,CHC,"L,5-6",9.0,11,6,4,2,6,4,0,0,4.34,39,159,91,1,1,0,3,33,2,0,1,0,0,2,3,4,Manny Gonzalez,"J.Guerra (4-59), W.Smith (0-BL), T.Thornburg (0), B.Boyer (1)",2016
+97,Jul 25,,ARI,"W,7-2",9.0,9,2,2,0,3,9,0,0,4.32,39,155,91,0,0,0,0,36,2,0,0,0,0,0,0,5,Gary Cederstrom,"C.Anderson (4-49-W), C.Knebel (2-H), C.Torres (1), J.Marinez (3), J.Barnes (4)",2016
+98,Jul 26,,ARI,"W,9-4",9.0,8,4,3,1,4,8,0,0,4.30,40,146,96,2,1,1,0,36,4,0,0,0,0,1,0,4,Jim Wolf,"M.Garza (4-50), W.Smith (1-H), T.Thornburg (1-BW), J.Jeffress (5)",2016
+99,Jul 27,,ARI,"L,1-8",9.0,11,8,3,5,2,12,2,0,4.29,42,154,114,1,0,0,0,40,2,0,0,0,0,2,0,3,Adrian Johnson,"J.Nelson (4-31-L), J.Marinez (1), M.Blazek (17)",2016
+100,Jul 28,,ARI,"W,6-4",9.0,9,4,3,1,1,9,0,0,4.28,37,136,92,2,1,0,0,36,3,0,0,0,0,1,1,4,Chad Whitson,"Z.Davies (4-55-W), W.Smith (1-H), T.Thornburg (1-H), J.Jeffress (1-Sv)",2016
+101,Jul 29,,PIT,"W,3-1",9.0,4,1,1,0,1,5,0,0,4.24,32,106,74,2,0,0,0,31,1,0,0,0,0,0,0,2,Mike Muchlinski,"J.Guerra (4-76-W), J.Jeffress (0-Sv)",2016
+102,Jul 30,,PIT,"W,5-3",9.0,8,3,2,1,3,10,1,0,4.22,36,162,97,0,0,0,1,33,1,0,0,0,0,1,0,5,Marty Foster,"C.Anderson (4-62-W), C.Torres (4-H), T.Thornburg (1-H), W.Smith (1-H), J.Jeffress (0-Sv)",2016
+103,Jul 31,,PIT,"W,4-2",9.0,5,2,1,1,2,12,1,0,4.19,33,135,88,0,0,0,0,31,0,0,0,0,0,1,2,5,Mike Winters,"M.Garza (4-57-W), C.Knebel (5-H), C.Torres (0-H), W.Smith (0-H), J.Jeffress (0-Sv)",2016
+2016
+104,Aug 1,@,SDP,"L,3-7",8.0,10,7,6,1,8,7,0,1,4.21,41,165,94,1,1,4,1,31,2,1,0,0,1,1,2,4,James Hoye,"J.Nelson (4-22-L), B.Boyer (7), M.Blazek (4), D.Goforth (61)",2016
+105,Aug 2,@,SDP,"W,3-2",9.0,6,2,2,0,2,7,0,0,4.19,34,124,83,2,0,1,1,32,0,0,0,0,0,0,0,4,Marvin Hudson,"Z.Davies (4-51-W), C.Torres (1-H), C.Knebel (1-H), T.Thornburg (2-Sv)",2016
+106,Aug 3,@,SDP,"L,3-12",8.0,14,12,12,0,5,8,2,1,4.27,44,169,98,0,0,4,0,38,5,0,0,0,0,1,1,4,Chad Fairchild,"J.Guerra (4-36-L), J.Marinez (6), D.Goforth (1), B.Boyer (1)",2016
+107,Aug 5,@,ARI,"L,2-3",10.1,7,3,2,1,4,10,2,0,4.24,43,180,109,0,0,0,0,38,1,0,1,1,0,1,1,6,Jeff Kellogg,"C.Anderson (5-59), M.Blazek (3), C.Torres (2), C.Knebel (2), T.Thornburg (2), B.Boyer (1-L)",2016
+108,Aug 6,@,ARI,"W,15-6",9.0,8,6,5,1,3,4,2,1,4.25,41,142,84,1,1,0,0,37,2,0,0,0,0,2,0,3,John Tumpane,"M.Garza (5-57-W), J.Marinez (2), D.Goforth (2)",2016
+109,Aug 7,@,ARI,"L,3-9",8.0,12,9,8,1,3,6,2,2,4.29,41,143,91,1,1,2,0,35,2,1,0,1,0,1,0,3,Chris Segal,"J.Nelson (5-24-L), M.Blazek (1), B.Boyer (1)",2016
+110,Aug 8,,ATL,"L,3-4",12.0,10,4,4,0,2,7,2,0,4.27,45,162,103,3,0,0,0,42,2,0,1,0,1,1,4,5,Mark Ripperger,"Z.Davies (5-52), C.Knebel (2), T.Thornburg (2), C.Torres (2-L), B.Boyer (0)",2016
+111,Aug 9,,ATL,"L,1-2",9.0,6,2,2,0,4,7,0,0,4.25,33,137,84,2,1,0,1,28,0,0,0,1,0,1,2,4,Kerwin Danley,"W.Peralta (58-59-L), M.Blazek (1), R.Scahill (52), J.Marinez (2)",2016
+112,Aug 10,,ATL,"W,4-3",9.0,9,3,3,0,2,6,2,0,4.24,36,140,95,1,0,1,0,33,1,0,0,1,0,0,1,5,Paul Nauert,"C.Anderson (4-50-W), B.Boyer (1-H), C.Torres (1-H), C.Knebel (1-H), T.Thornburg (1-Sv)",2016
+113,Aug 11,,ATL,"W,11-3",9.0,9,3,3,0,4,4,1,2,4.23,40,127,79,0,0,0,0,33,2,0,0,0,1,0,2,4,Andy Fletcher,"M.Garza (4-49-W), M.Blazek (1), J.Marinez (1), R.Scahill (1)",2016
+114,Aug 12,,CIN,"L,4-7",9.0,12,7,5,2,4,12,1,1,4.24,45,183,118,0,0,4,1,40,1,0,1,0,0,2,0,4,Bill Miller,"J.Nelson (4-47-L), B.Boyer (1), J.Marinez (0), R.Scahill (0)",2016
+115,Aug 13,,CIN,"L,5-11",9.0,16,11,9,2,1,7,1,0,4.28,45,162,107,2,2,0,0,43,3,1,0,0,1,1,0,5,Todd Tichenor,"Z.Davies (4-34-L), M.Blazek (1), B.Boyer (0), C.Torres (2), C.Knebel (2)",2016
+116,Aug 14,,CIN,"W,7-3",9.0,7,3,3,0,2,9,1,0,4.27,35,149,92,0,0,0,0,33,3,0,0,0,0,0,0,4,Ryan Blakney,"W.Peralta (4-64-W), R.Scahill (1), C.Torres (0), T.Thornburg (3)",2016
+117,Aug 16(1),@,CHC,"L,0-4",8.0,6,4,4,0,4,4,0,1,4.27,35,150,90,0,0,0,1,27,1,0,0,1,2,0,0,3,Carlos Torres,"M.Garza (4-44-L), T.Cravy (99), D.Magnifico (99)",2016
+118,Aug 16(2),@,CHC,"L,1-4",8.0,10,4,4,0,5,3,1,0,4.27,36,154,93,3,0,1,0,31,2,0,0,0,0,0,1,6,Sam Holbrook,"C.Anderson (5-52), J.Marinez (3-L), B.Boyer (2), R.Scahill (1), C.Knebel (2), T.Thornburg (1)",2016
+119,Aug 17,@,CHC,"L,1-6",8.0,8,6,6,0,4,6,2,2,4.29,37,137,86,0,0,0,0,31,1,0,0,0,0,0,1,4,Gerry Davis,"J.Nelson (4-33-L), T.Cravy (0), C.Torres (2), D.Magnifico (0)",2016
+120,Aug 18,@,CHC,"L,6-9",8.0,14,9,9,0,2,6,2,0,4.33,40,158,105,0,0,0,0,38,5,0,0,0,0,0,0,5,Rob Drake,"Z.Davies (4-17-L), R.Scahill (1), B.Boyer (1), C.Torres (0), C.Knebel (1)",2016
+121,Aug 19,@,SEA,"L,6-7",8.0,11,7,6,1,6,5,3,0,4.35,43,152,94,3,1,1,0,37,1,0,1,0,0,2,0,4,James Hoye,"B.Suter (99-32-L), J.Marinez (2), T.Cravy (1), C.Anderson (2)",2016
+122,Aug 20,@,SEA,"L,2-8",8.0,12,8,8,0,3,2,2,0,4.39,37,141,82,2,2,1,0,34,6,0,0,0,0,0,2,3,Marvin Hudson,"W.Peralta (5-39-L), B.Boyer (1), R.Scahill (1)",2016
+123,Aug 21,@,SEA,"W,7-6",9.0,11,6,5,1,1,7,0,0,4.39,39,154,101,2,0,0,0,38,1,0,0,0,0,1,1,4,Jim Joyce,"M.Garza (4-23), J.Marinez (1), C.Torres (2), T.Thornburg (4-W)",2016
+124,Aug 22,,COL,"W,4-2",9.0,7,2,2,0,1,6,0,1,4.37,36,137,97,0,0,2,0,34,2,0,0,0,0,0,0,4,Vic Carapazza,"J.Nelson (4-54-W), C.Torres (0-H), C.Knebel (3-H), T.Thornburg (0-Sv)",2016
+125,Aug 23,,COL,"W,6-4",9.0,11,4,4,0,5,9,1,0,4.37,43,172,102,0,0,0,0,38,2,0,0,0,0,0,0,5,Paul Emmel,"C.Anderson (3-48), J.Marinez (1), B.Suter (3-W), C.Torres (0-H), C.Knebel (0-Sv)",2016
+126,Aug 24,,COL,"W,7-1",9.0,6,1,1,0,4,10,1,0,4.34,38,142,84,0,0,1,0,34,1,0,0,0,0,1,0,3,John Hirschbeck,"Z.Davies (5-63-W), B.Boyer (3-H), T.Cravy (4)",2016
+127,Aug 25,,PIT,"L,2-3",10.0,7,3,3,0,4,6,1,0,4.33,40,156,96,0,0,2,1,35,0,0,0,1,0,1,1,5,Dale Scott,"W.Peralta (4-51), J.Marinez (1), C.Knebel (1), T.Thornburg (2), C.Torres (1-L)",2016
+128,Aug 26,,PIT,"L,3-5",9.0,7,5,0,5,4,11,1,0,4.29,40,155,101,0,0,0,0,36,2,0,1,0,0,2,0,5,Ramon De Jesus,"M.Garza (4-54-L), R.Scahill (5), B.Boyer (1), T.Cravy (1), J.Marinez (0)",2016
+129,Aug 27,,PIT,"L,6-9",9.0,12,9,8,1,5,5,0,0,4.32,43,170,103,1,0,2,0,38,3,0,1,0,0,0,0,4,Bob Davidson,"J.Nelson (4-23), T.Cravy (0), B.Boyer (0-L), B.Suter (3)",2016
+130,Aug 28,,PIT,"L,1-3",9.0,7,3,3,0,3,9,3,2,4.31,39,151,91,0,0,1,0,34,0,0,0,0,0,0,0,4,Dan Iassogna,"C.Anderson (4-54-L), J.Marinez (1), C.Torres (2), R.Scahill (1)",2016
+131,Aug 29,,STL,"L,5-6",9.0,11,6,5,1,5,12,3,0,4.32,44,171,111,0,0,1,0,38,1,0,1,0,1,0,0,4,Mark Ripperger,"Z.Davies (4-56), T.Cravy (1), C.Knebel (3-BSv), T.Thornburg (3-L)",2016
+132,Aug 30,,STL,"L,1-2",10.0,7,2,2,0,2,15,1,0,4.29,37,139,91,0,0,0,1,35,1,0,0,0,0,0,1,4,Joe West,"W.Peralta (4-76), C.Torres (1), T.Thornburg (0), C.Knebel (0-L)",2016
+133,Aug 31,,STL,"W,3-1",9.0,3,1,1,0,3,9,1,0,4.27,34,133,85,2,0,0,0,31,0,0,0,0,0,1,0,3,Andy Fletcher,"M.Garza (4-73-W), C.Torres (0-H), T.Thornburg (0-Sv)",2016
+2016
+134,Sep 2,@,PIT,"W,1-0",9.0,7,0,0,0,4,5,0,0,4.24,35,145,87,2,0,0,2,31,2,0,0,0,0,0,0,7,Brian Gorman,"J.Guerra (29-51), J.Barnes (38), B.Boyer (5-W), J.Marinez (4-H), C.Torres (1-H), C.Knebel (2-H), T.Thornburg (1-Sv)",2016
+135,Sep 3,@,PIT,"W,7-4",9.0,9,4,4,0,6,7,2,1,4.24,40,162,95,6,1,1,0,31,0,0,0,1,1,1,4,7,Quinn Wolcott,"J.Nelson (6-54), J.Marinez (0-H), B.Suter (6-H), C.Torres (0-BW), C.Knebel (0), B.Boyer (0-H), T.Thornburg (0-Sv)",2016
+136,Sep 4,@,PIT,"W,10-0",9.0,6,0,0,0,1,3,0,0,4.20,32,131,84,0,0,0,0,31,3,0,0,0,0,0,1,4,Clint Fagan,"C.Anderson (6-59-W), T.Cravy (5), J.Barnes (1), B.Rowen (99)",2016
+137,Sep 5,,CHC,"L,2-7",9.0,10,7,5,2,2,4,0,2,4.21,41,139,89,3,2,0,0,37,1,0,0,0,0,1,0,5,Ron Kulpa,"Z.Davies (6-53-L), J.Marinez (1), B.Suter (1), B.Rowen (0), R.Scahill (7)",2016
+138,Sep 6,,CHC,"W,12-5",9.0,8,5,5,0,2,6,3,0,4.22,37,127,80,0,0,0,0,35,4,0,0,0,0,0,0,3,Will Little,"W.Peralta (6-56-W), J.Barnes (1), B.Boyer (2)",2016
+139,Sep 7,,CHC,"W,2-1",9.0,3,1,1,0,2,8,1,0,4.19,31,124,84,0,0,0,0,29,0,0,0,0,0,0,1,4,Chad Whitson,"M.Garza (6-65), C.Torres (3), C.Knebel (3-W), T.Thornburg (3-Sv)",2016
+140,Sep 8,@,STL,"W,12-5",9.0,11,5,5,0,3,5,1,0,4.20,39,140,91,0,0,0,0,35,1,0,0,0,1,1,2,5,Gerry Davis,"J.Guerra (5-43-W), J.Marinez (2), B.Suter (2), B.Rowen (2), D.Magnifico (21)",2016
+141,Sep 9,@,STL,"L,3-4",8.0,5,4,4,0,3,6,2,1,4.20,32,117,69,1,0,0,0,27,0,0,1,1,0,1,2,3,Todd Tichenor,"J.Nelson (5-48-L), B.Suter (0), J.Marinez (0)",2016
+142,Sep 10,@,STL,"L,1-5",8.0,8,5,5,0,3,7,0,0,4.21,33,127,79,3,2,0,1,30,2,0,1,0,0,0,1,4,Carlos Torres,"C.Anderson (5-65), C.Torres (2-H), C.Knebel (2-BL), J.Marinez (0)",2016
+143,Sep 11,@,STL,"W,2-1",9.0,5,1,1,0,1,10,0,0,4.19,34,114,77,1,1,0,0,32,3,0,0,0,1,1,0,2,Mark Ripperger,"Z.Davies (5-70), T.Thornburg (3-BW)",2016
+144,Sep 12,@,CIN,"L,0-3",8.0,7,3,3,0,1,6,0,0,4.18,31,130,84,0,0,0,0,30,0,0,0,0,0,0,0,3,Mike Everitt,"W.Peralta (5-52-L), J.Barnes (5), B.Suter (2)",2016
+145,Sep 13,@,CIN,"L,4-6",8.0,10,6,2,4,0,5,1,1,4.17,35,130,84,0,0,0,1,32,2,0,0,1,1,2,0,4,Jordan Baker,"M.Garza (5-42-L), T.Cravy (8), C.Knebel (2), B.Boyer (6)",2016
+146,Sep 14,@,CIN,"W,7-0",9.0,6,0,0,0,2,8,0,1,4.14,34,120,78,0,0,0,0,31,1,1,0,0,0,0,1,4,Roberto Ortiz,"J.Guerra (5-69-W), C.Knebel (0), J.Marinez (3), T.Jungmann (99)",2016
+147,Sep 15,@,CHC,"W,5-4",9.0,10,4,4,0,5,11,1,0,4.14,40,161,102,1,1,0,0,35,2,0,0,0,0,0,1,3,Will Little,"J.Nelson (5-49-W), C.Torres (4-H), T.Thornburg (3-Sv)",2016
+148,Sep 16,@,CHC,"L,4-5",9.0,11,5,4,1,4,4,2,1,4.14,39,143,89,3,0,0,0,34,2,0,0,0,0,1,4,7,Lance Barksdale,"C.Anderson (5-54), J.Barnes (3), B.Suter (3-H), J.Marinez (1-H), C.Knebel (1-H), C.Torres (0-BSv), B.Boyer (2-L)",2016
+149,Sep 17,@,CHC,"W,11-3",9.0,8,3,3,0,2,9,1,1,4.13,36,146,90,0,0,0,1,33,1,1,0,0,0,0,1,5,Angel Hernandez,"Z.Davies (5-45-W), J.Marinez (0-H), C.Knebel (0-H), J.Barnes (0), R.Scahill (11)",2016
+150,Sep 18,@,CHC,"W,3-1",9.0,9,1,1,0,2,9,0,1,4.11,39,134,81,0,0,0,0,36,2,0,0,0,0,0,0,3,Ted Barrett,"W.Peralta (5-54-W), C.Torres (1-H), T.Thornburg (2-Sv)",2016
+151,Sep 20,,PIT,"L,3-6",9.0,13,6,6,0,2,8,0,0,4.12,39,158,100,3,0,1,0,37,3,0,0,0,0,0,2,6,Tripp Gibson,"M.Garza (6-27-L), B.Rowen (11), B.Suter (3), T.Cravy (6), R.Scahill (2), T.Jungmann (5)",2016
+152,Sep 21,,PIT,"L,1-4",9.0,9,4,4,0,2,8,2,0,4.12,38,128,90,0,0,1,0,36,0,0,0,0,0,0,0,4,Jerry Layne,"J.Nelson (5-42-L), B.Boyer (4), J.Barnes (3), B.Suter (0)",2016
+153,Sep 22,,PIT,"W,3-1",9.0,5,1,1,0,3,9,1,0,4.10,33,132,84,1,0,0,0,30,1,0,0,0,0,0,1,4,Hunter Wendelstedt,"C.Anderson (5-62-W), C.Torres (3-H), C.Knebel (4-H), T.Thornburg (3-Sv)",2016
+154,Sep 23,,CIN,"W,5-4",9.0,9,4,4,0,0,5,1,0,4.10,36,127,83,0,0,1,0,35,1,0,0,1,0,1,0,5,Ryan Blakney,"Z.Davies (5-44), J.Marinez (5), B.Suter (1-W), C.Knebel (0-H), T.Thornburg (0-Sv)",2016
+155,Sep 24,,CIN,"L,1-6",9.0,10,6,5,1,7,6,1,0,4.11,42,154,89,0,0,2,1,34,2,0,2,0,1,0,2,6,Adrian Johnson,"T.Jungmann (3-47-L), T.Cravy (3), J.Barnes (2), R.Scahill (3), B.Boyer (2), M.Blazek (41)",2016
+156,Sep 25,,CIN,"L,2-4",9.0,8,4,3,1,3,7,0,0,4.10,35,120,78,0,0,1,2,30,3,0,0,2,0,0,1,3,Ben May,"W.Peralta (6-54-L), J.Marinez (1), B.Suter (1)",2016
+157,Sep 26,@,TEX,"W,8-3",9.0,8,3,3,0,1,5,0,0,4.09,36,144,95,0,0,1,0,35,2,0,0,0,0,0,0,4,James Hoye,"M.Garza (5-50-W), C.Torres (3), J.Barnes (1), T.Cravy (1)",2016
+158,Sep 27,@,TEX,"L,4-6",8.0,7,6,6,0,6,5,1,0,4.11,36,136,74,1,0,2,1,30,2,0,0,0,0,1,0,4,Marvin Hudson,"J.Nelson (5-39-L), J.Barnes (0), J.Marinez (1), B.Boyer (2)",2016
+159,Sep 28,@,TEX,"L,5-8",8.0,10,8,3,5,3,7,2,0,4.10,38,143,93,2,2,0,1,35,3,0,0,0,0,2,0,5,Jim Joyce,"C.Anderson (5-37), R.Scahill (3-H), C.Torres (1-H), C.Knebel (4-L), T.Thornburg (4-BSv)",2016
+160,Sep 30,@,COL,"L,1-4",8.0,10,4,4,0,0,5,1,0,4.10,31,111,75,0,0,0,1,30,1,0,0,1,0,0,0,3,Tony Randazzo,"B.Suter (4-34-L), T.Cravy (3), R.Scahill (1)",2016
+161,Oct 1,@,COL,"W,4-3",10.0,12,3,2,1,1,7,0,0,4.09,42,160,104,0,0,0,1,41,1,1,1,0,0,1,1,5,Roberto Ortiz,"W.Peralta (5-65), C.Torres (2-H), C.Knebel (2-H), T.Thornburg (2-BW), J.Barnes (3-Sv)",2016
+162,Oct 2,@,COL,"W,6-4",10.0,13,4,4,0,3,11,1,1,4.08,46,162,106,0,0,0,1,41,4,0,0,1,0,0,0,7,Scott Barry,"T.Cravy (1-43), R.Scahill (1), J.Marinez (4), B.Boyer (4), C.Torres (0-H), T.Thornburg (0-BW), C.Knebel (0-Sv)",2016

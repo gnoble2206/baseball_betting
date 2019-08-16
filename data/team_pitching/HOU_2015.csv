@@ -1,0 +1,169 @@
+Gtm,Date,,Opp,Rslt,IP,H,R,ER,UER,BB,SO,HR,HBP,ERA,BF,Pit,Str,IR,IS,SB,CS,AB,2B,3B,IBB,SH,SF,ROE,GDP,#,Umpire,Pitchers Used (Rest-GameScore-Dec)
+2015
+1,Apr 6,,CLE,"W,2-0",9.0,3,0,0,0,3,7,0,0,0.00,32,122,81,0,0,0,0,29,0,0,0,0,0,0,1,3,Ted Barrett,"D.Keuchel (99-72-W), T.Sipp (99-H), L.Gregerson (99-Sv)",2015
+2,Apr 8,,CLE,"L,0-2",9.0,7,2,2,0,0,8,2,0,1.00,34,127,86,0,0,0,0,33,0,0,0,1,0,0,0,4,Angel Hernandez,"S.Feldman (99-65-L), J.Thatcher (99), P.Neshek (99), W.Harris (99)",2015
+3,Apr 9,,CLE,"L,1-5",9.0,11,5,5,0,3,7,2,0,2.33,40,161,102,2,0,2,0,36,3,1,0,0,1,0,2,3,Scott Barry,"A.Wojciechowski (99-30-L), S.Deduno (99), C.Qualls (99)",2015
+4,Apr 10,@,TEX,"W,5-1",9.0,6,1,1,0,2,8,0,0,2.00,34,119,82,0,0,0,1,32,3,0,0,0,0,0,0,4,Cory Blaser,"C.McHugh (99-60-W), P.Neshek (1-H), C.Qualls (0-H), L.Gregerson (3)",2015
+5,Apr 11,@,TEX,"L,2-6",8.0,9,6,2,4,4,4,0,1,2.05,39,144,93,3,3,1,0,33,4,1,1,1,0,1,0,4,Jeff Nelson,"R.Hernandez (99-40-L), J.Thatcher (2), W.Harris (2), T.Sipp (4)",2015
+6,Apr 12,@,TEX,"W,6-4",14.0,9,4,4,0,7,9,0,4,2.17,61,225,136,3,2,0,0,49,1,0,0,0,1,0,1,8,Laz Diaz,"D.Keuchel (5-57), P.Neshek (1-H), J.Thatcher (0), C.Qualls (1-BSv), T.Sipp (0), L.Gregerson (1), W.Harris (0-W), S.Deduno (2-Sv)",2015
+7,Apr 13,,OAK,"L,1-8",9.0,12,8,7,1,2,4,3,0,2.82,39,156,103,0,0,0,0,37,2,0,0,0,0,1,3,2,Tim Timmons,"S.Feldman (4-16-L), A.Wojciechowski (3)",2015
+8,Apr 14,,OAK,"L,0-4",9.0,7,4,4,0,2,7,0,2,2.96,36,143,91,1,1,1,0,31,3,0,0,0,1,0,2,4,Todd Tichenor,"B.Peacock (99-46-L), J.Thatcher (1), P.Neshek (1), S.Deduno (1)",2015
+9,Apr 15,,OAK,"W,6-1",9.0,8,1,1,0,0,13,0,0,2.75,35,140,99,1,0,1,0,35,1,1,0,0,0,0,0,4,Tim Welke,"C.McHugh (4-64-W), T.Sipp (2-H), C.Qualls (2), L.Gregerson (2)",2015
+10,Apr 17,,LAA,"L,3-6",9.0,6,6,6,0,3,9,2,0,3.06,35,149,91,0,0,0,0,31,0,1,0,0,1,0,1,4,Toby Basner,"R.Hernandez (5-59), W.Harris (4), C.Qualls (1-L), S.Deduno (2)",2015
+11,Apr 18,,LAA,"W,4-0",9.0,3,0,0,0,3,13,0,0,2.80,33,147,92,0,0,0,0,30,2,0,0,0,0,0,0,4,Paul Nauert,"D.Keuchel (5-72-W), C.Qualls (0-H), P.Neshek (3), L.Gregerson (2)",2015
+12,Apr 19,,LAA,"W,4-3",9.0,8,3,3,0,0,6,2,0,2.81,34,151,99,0,0,0,1,34,0,0,0,0,0,0,0,4,Mike Estabrook,"S.Feldman (5-55-W), T.Sipp (3-H), P.Neshek (0-H), L.Gregerson (0-Sv)",2015
+13,Apr 20,@,SEA,"W,7-5",9.0,10,5,5,0,5,10,0,0,2.98,42,179,106,3,1,1,0,36,5,0,0,0,1,0,0,5,Dale Scott,"A.Wojciechowski (6-34), J.Thatcher (5), W.Harris (2), T.Sipp (0-W), L.Gregerson (0-Sv)",2015
+14,Apr 21,@,SEA,"W,6-3",9.0,7,3,3,0,2,8,0,0,2.98,34,127,82,0,0,0,0,32,1,0,0,0,0,0,1,3,CB Bucknor,"C.McHugh (5-52-W), P.Neshek (1-H), C.Qualls (2-Sv)",2015
+15,Apr 22,@,SEA,"L,2-3",8.0,7,3,3,0,1,4,1,0,3.00,31,114,74,1,0,1,0,30,0,0,0,0,0,0,0,3,Lance Barrett,"R.Hernandez (4-54-L), J.Thatcher (1), W.Harris (1)",2015
+16,Apr 24,@,OAK,"W,5-4",11.0,8,4,4,0,3,5,1,0,3.02,42,161,100,3,0,0,0,38,1,0,0,1,0,0,1,5,Gary Cederstrom,"D.Keuchel (5-85), L.Gregerson (3-BW), P.Neshek (2-H), T.Sipp (3), C.Qualls (2-Sv)",2015
+17,Apr 25,@,OAK,"W,9-3",9.0,6,3,3,0,4,9,0,0,3.02,37,152,93,1,0,0,0,33,0,1,0,0,0,0,0,4,Lance Barksdale,"S.Feldman (5-56-W), J.Thatcher (2), J.Fields (99), W.Harris (2)",2015
+18,Apr 26,@,OAK,"W,7-6",9.0,7,6,6,0,3,6,0,0,3.18,37,139,90,1,0,0,0,32,2,1,0,1,1,0,0,4,Quinn Wolcott,"A.Wojciechowski (5-34), S.Deduno (8), T.Sipp (1-W), L.Gregerson (1-Sv)",2015
+19,Apr 27,@,SDP,"W,9-4",9.0,10,4,4,0,0,7,0,0,3.22,37,137,96,2,0,0,0,37,2,0,0,0,0,0,0,6,Paul Schrieber,"C.McHugh (5-51), J.Fields (1-BSv), P.Neshek (2-W), J.Thatcher (1-H), C.Qualls (2-H), W.Harris (1)",2015
+20,Apr 28,@,SDP,"W,14-3",9.0,6,3,3,0,2,10,2,0,3.21,36,143,95,0,0,1,0,34,0,0,0,0,0,1,0,3,Jim Reynolds,"R.Hernandez (5-53-W), T.Sipp (1), W.Harris (0)",2015
+21,Apr 29,@,SDP,"W,7-2",9.0,3,2,1,1,0,4,0,0,3.11,31,127,82,0,0,0,0,31,1,0,0,0,0,1,0,2,Clint Fagan,"D.Keuchel (4-76-W), L.Gregerson (2)",2015
+22,Apr 30,,SEA,"W,3-2",10.0,11,2,2,0,2,4,0,0,3.04,39,145,98,2,0,2,1,36,0,0,0,1,0,0,3,5,Vic Carapazza,"S.Feldman (4-53), C.Qualls (2), T.Sipp (1), P.Neshek (2), L.Gregerson (0-W)",2015
+2015
+23,May 1,,SEA,"W,4-3",9.0,6,3,3,0,2,11,2,0,3.04,35,138,94,1,0,1,0,33,1,1,0,0,0,0,0,6,Larry Vanover,"S.Deduno (4-54), J.Fields (3-W), K.Chapman (99-H), P.Neshek (0-H), C.Qualls (0-H), L.Gregerson (0-Sv)",2015
+24,May 2,,SEA,"W,11-4",9.0,7,4,4,0,2,7,4,0,3.08,35,132,86,0,0,0,0,33,0,0,0,0,0,0,1,3,Ron Kulpa,"C.McHugh (4-50-W), J.Thatcher (4), W.Harris (3)",2015
+25,May 3,,SEA,"W,7-6",9.0,10,6,4,2,3,6,0,0,3.12,36,143,85,2,2,0,1,33,4,2,0,0,0,0,2,4,Brian Knight,"R.Hernandez (4-37), T.Sipp (2-BSv), P.Neshek (1-W), L.Gregerson (1-Sv)",2015
+26,May 4,,TEX,"L,1-2",9.0,7,2,2,0,2,10,0,0,3.08,35,128,83,0,0,1,0,32,4,0,0,0,1,0,1,2,Marty Foster,"D.Keuchel (4-74), C.Qualls (2-L)",2015
+27,May 5,,TEX,"L,1-7",9.0,11,7,7,0,2,11,2,0,3.22,37,156,95,0,0,1,1,34,3,0,0,0,1,0,0,4,Mike Muchlinski,"S.Feldman (4-18-L), K.Chapman (3), J.Fields (3), J.Thatcher (2)",2015
+28,May 6,,TEX,"L,3-11",9.0,13,11,11,0,3,9,3,0,3.49,42,154,105,1,0,0,1,38,3,1,0,0,1,0,0,4,Mike Winters,"S.Deduno (4-3-L), J.Thatcher (0), W.Harris (3), T.Sipp (2)",2015
+29,May 7,@,LAA,"W,3-2",9.0,7,2,2,0,1,8,1,1,3.44,33,119,76,4,1,0,0,30,2,0,0,1,0,0,1,4,Joe West,"C.McHugh (4-66), J.Thatcher (0), P.Neshek (3-W), L.Gregerson (3-Sv)",2015
+30,May 8,@,LAA,"L,0-2",8.0,7,2,2,0,0,3,0,1,3.40,30,96,61,1,0,1,0,28,0,0,0,0,1,0,2,2,Kerwin Danley,"R.Hernandez (4-60-L), J.Fields (2)",2015
+31,May 9,@,LAA,"W,6-5",9.0,10,5,5,0,3,9,1,0,3.45,39,144,86,1,0,0,0,36,2,0,1,0,0,0,1,3,Rob Drake,"D.Keuchel (4-47-W), P.Neshek (1-H), C.Qualls (4-Sv)",2015
+32,May 10,@,LAA,"L,1-3",8.0,6,3,3,0,2,6,0,0,3.45,31,110,68,0,0,0,1,28,1,0,0,0,1,0,0,2,Gabe Morales,"S.Feldman (4-57-L), J.Fields (1)",2015
+33,May 12,,SFG,"L,1-8",9.0,12,8,8,0,4,8,0,1,3.59,43,160,98,2,2,0,1,38,2,0,0,0,0,0,0,5,Chad Fairchild,"C.McHugh (4-21-L), K.Chapman (6), W.Harris (5), T.Sipp (5), S.Deduno (5)",2015
+34,May 13,,SFG,"W,4-3",9.0,11,3,3,0,3,8,1,1,3.57,40,164,106,0,0,1,1,36,1,1,0,0,0,1,2,6,Jim Joyce,"B.Oberholtzer (99-46), S.Deduno (0), W.Harris (0), P.Neshek (3), C.Qualls (3-W), L.Gregerson (5-Sv)",2015
+35,May 14,,TOR,"W,6-4",9.0,7,4,4,0,3,1,2,0,3.58,34,118,75,3,1,1,0,30,2,0,0,0,1,0,3,4,Jeff Kellogg,"R.Hernandez (5-42), J.Fields (3-W), P.Neshek (0-H), C.Qualls (0-Sv)",2015
+36,May 15,,TOR,"W,8-4",9.0,8,4,4,0,3,9,0,0,3.59,37,135,86,2,0,0,0,34,1,0,0,0,0,0,1,4,Brian O'Nora,"D.Keuchel (5-42-W), W.Harris (1-H), C.Qualls (0), J.Fields (0)",2015
+37,May 16,,TOR,"W,6-5",9.0,6,5,5,0,5,15,1,0,3.63,38,162,107,1,0,0,0,33,2,1,0,0,0,0,0,4,Clint Fagan,"S.Feldman (5-59-W), J.Fields (0-H), T.Sipp (3-H), L.Gregerson (2-Sv)",2015
+38,May 17,,TOR,"W,4-2",9.0,8,2,2,0,1,10,0,1,3.59,37,136,90,0,0,0,0,31,4,0,0,2,2,0,0,3,Mark Ripperger,"C.McHugh (4-65-W), P.Neshek (2-H), L.Gregerson (0-Sv)",2015
+39,May 18,,OAK,"L,1-2",9.0,6,2,2,0,5,9,0,0,3.55,37,174,103,4,1,0,0,32,3,0,0,0,0,0,1,5,Jordan Baker,"L.McCullers (99-56), J.Thatcher (10-L), W.Harris (2), J.Fields (1), J.Buchanan (99)",2015
+40,May 19,,OAK,"W,6-4",9.0,10,4,4,0,4,6,1,0,3.56,37,154,97,1,0,3,1,33,3,0,0,0,0,0,1,5,Andy Fletcher,"R.Hernandez (4-51-W), T.Sipp (2-H), C.Qualls (3-H), L.Gregerson (1), P.Neshek (1-Sv)",2015
+41,May 20,,OAK,"W,6-1",9.0,7,1,0,1,3,7,0,0,3.47,38,153,99,1,0,0,0,35,1,0,0,0,0,1,0,4,Jerry Meals,"D.Keuchel (4-65-W), P.Neshek (0-H), T.Sipp (0-H), W.Harris (1)",2015
+42,May 21,@,DET,"L,5-6",10.0,13,6,5,1,3,8,2,0,3.50,44,170,109,1,0,2,0,41,2,0,0,0,0,1,2,6,Mark Carlson,"S.Feldman (4-35), J.Thatcher (2), J.Buchanan (2), J.Fields (2), W.Harris (0), T.Sipp (0-L)",2015
+43,May 22,@,DET,"L,2-6",8.0,13,6,6,0,1,5,1,1,3.57,36,127,88,0,0,2,1,34,3,0,0,0,0,0,2,2,Jerry Layne,"C.McHugh (4-48-L), C.Qualls (2)",2015
+44,May 23,@,DET,"W,3-2",9.0,6,2,2,0,1,10,0,0,3.53,33,139,90,0,0,0,0,32,2,0,1,0,0,2,1,5,Hunter Wendelstedt,"L.McCullers (4-57-W), W.Harris (1-H), J.Thatcher (1-H), P.Neshek (2-H), L.Gregerson (3-Sv)",2015
+45,May 24,@,DET,"W,10-8",9.0,14,8,8,0,3,9,1,0,3.63,42,155,99,0,0,0,1,38,6,0,0,0,1,0,1,5,Bob Davidson,"R.Hernandez (4-23), J.Thatcher (0-W), J.Fields (2-H), C.Qualls (1-H), L.Gregerson (0-Sv)",2015
+46,May 25,@,BAL,"L,3-4",8.0,6,4,4,0,1,3,2,0,3.65,28,98,62,,,0,0,27,0,0,0,0,0,0,2,1,Bruce Dreckman,D.Keuchel (4-56-L),2015
+47,May 26,@,BAL,"W,4-1",9.0,5,1,1,0,3,5,0,0,3.59,33,124,78,0,0,2,0,29,1,0,0,0,1,1,3,4,Alfonso Marquez,"S.Feldman (4-59-W), P.Neshek (2-H), C.Qualls (1-H), L.Gregerson (1-Sv)",2015
+48,May 27,@,BAL,"L,4-5",8.0,10,5,5,0,0,9,3,1,3.63,34,131,81,0,0,2,0,33,1,0,0,0,0,0,1,3,Dan Bellino,"C.McHugh (4-43), J.Fields (2), T.Sipp (5-L)",2015
+49,May 29,,CHW,"L,3-6",11.0,9,6,5,1,6,13,1,2,3.64,50,195,116,7,2,0,1,41,2,0,0,0,1,0,0,8,Joe West,"L.McCullers (5-52), J.Thatcher (4), W.Harris (5), P.Neshek (2-H), C.Qualls (2-BSv), L.Gregerson (2), J.Fields (1-L), T.Sipp (1)",2015
+50,May 30,,CHW,"W,3-0",9.0,4,0,0,0,0,11,0,0,3.57,31,113,78,,,0,0,31,0,0,0,0,0,2,0,1,Gabe Morales,D.Keuchel (4-90-W),2015
+51,May 31,,CHW,"L,0-6",9.0,10,6,5,1,1,3,1,0,3.60,39,137,94,1,0,2,0,38,2,0,0,0,0,1,0,4,David Rackley,"R.Hernandez (6-36-L), T.Sipp (1), J.Buchanan (9), M.Feliz (99)",2015
+2015
+52,Jun 1,,BAL,"W,5-2",9.0,7,2,2,0,2,8,0,0,3.57,34,127,87,2,0,0,1,32,1,1,0,0,0,0,1,4,Tripp Gibson,"B.Oberholtzer (18-47), W.Harris (2-W), P.Neshek (2-H), L.Gregerson (2-Sv)",2015
+53,Jun 2,,BAL,"W,6-4",9.0,7,4,4,0,2,9,0,0,3.57,34,133,90,0,0,0,0,32,0,1,0,0,0,0,1,3,Adam Hamari,"C.McHugh (5-53-W), P.Neshek (0-H), L.Gregerson (0-Sv)",2015
+54,Jun 3,,BAL,"W,3-1",9.0,4,1,1,0,0,11,0,0,3.53,31,107,73,,,0,0,31,1,1,0,0,0,0,0,1,Mark Carlson,L.McCullers (4-86-W),2015
+55,Jun 4,,BAL,"L,2-3",9.0,8,3,3,0,2,10,1,0,3.52,35,168,107,0,0,1,0,33,0,0,0,0,0,0,2,4,Brian Gorman,"D.Keuchel (4-58), W.Harris (2), C.Qualls (5-L), J.Fields (5)",2015
+56,Jun 5,@,TOR,"L,2-6",8.0,9,6,5,1,4,3,2,0,3.55,35,127,78,1,0,0,1,31,2,0,0,0,0,0,1,4,John Hirschbeck,"R.Hernandez (4-28-L), J.Thatcher (6), J.Buchanan (4), T.Sipp (4)",2015
+57,Jun 6,@,TOR,"L,2-7",8.0,10,7,5,2,5,7,0,1,3.58,41,169,110,1,0,5,0,32,4,0,0,2,1,1,0,4,Bill Welke,"B.Oberholtzer (4-36-L), J.Buchanan (0), J.Thatcher (0), J.Fields (1)",2015
+58,Jun 7,@,TOR,"L,6-7",8.1,12,7,7,0,2,4,3,1,3.65,40,152,93,0,0,3,0,37,1,0,0,0,0,1,1,4,Sam Holbrook,"C.McHugh (4-48), W.Harris (2-H), P.Neshek (4-H), L.Gregerson (4-BL)",2015
+59,Jun 8,@,CHW,"L,1-3",8.0,4,3,3,0,0,9,1,1,3.64,28,106,74,0,0,0,0,27,1,0,0,0,0,0,1,2,Vic Carapazza,"L.McCullers (4-64-L), T.Sipp (2)",2015
+60,Jun 9,@,CHW,"L,2-4",8.0,10,4,4,0,4,8,1,0,3.65,37,151,90,2,0,1,0,33,1,0,0,0,0,0,0,3,Larry Vanover,"D.Keuchel (4-58-L), C.Qualls (4), J.Fields (2)",2015
+61,Jun 10,@,CHW,"L,1-4",8.0,9,4,4,0,6,7,3,0,3.67,35,146,94,2,0,0,3,29,1,0,0,0,0,0,0,5,Toby Basner,"V.Velasquez (99-62), W.Harris (2-BSv), T.Sipp (1-L), P.Neshek (2), J.Thatcher (3)",2015
+62,Jun 12,,SEA,"W,10-0",9.0,4,0,0,0,3,8,0,0,3.61,34,131,85,0,0,0,0,31,0,0,0,0,0,1,1,2,Mike Estabrook,"B.Oberholtzer (5-79-W), J.Thatcher (1)",2015
+63,Jun 13,,SEA,"L,1-8",9.0,13,8,8,0,2,7,2,1,3.68,43,162,96,0,0,0,0,39,3,0,0,0,1,1,1,4,Dana DeMuth,"C.McHugh (5-8-L), R.Hernandez (7), C.Qualls (3), L.Gregerson (5)",2015
+64,Jun 14,,SEA,"W,13-0",9.0,2,0,0,0,5,10,0,0,3.62,33,162,97,0,0,0,0,28,1,0,0,0,0,0,1,5,Paul Nauert,"L.McCullers (5-67-W), T.Sipp (3), J.Thatcher (1), W.Harris (3), J.Fields (4)",2015
+65,Jun 15,,COL,"W,6-3",9.0,5,3,3,0,2,5,0,0,3.61,34,132,83,1,0,0,0,32,1,0,0,0,0,1,1,4,Jerry Layne,"D.Keuchel (5-56-W), J.Thatcher (0-H), P.Neshek (4-H), L.Gregerson (1-Sv)",2015
+66,Jun 16,,COL,"W,8-5",9.0,9,5,5,0,4,13,1,0,3.63,39,165,108,0,0,2,0,35,3,1,0,0,0,0,0,5,Hunter Wendelstedt,"V.Velasquez (5-35), W.Harris (1-W), T.Sipp (1-H), C.Qualls (2-H), L.Gregerson (0-Sv)",2015
+67,Jun 17,@,COL,"W,8-4",9.0,9,4,4,0,0,7,1,0,3.64,34,108,72,1,0,0,1,33,3,0,0,0,1,0,0,5,Bob Davidson,"B.Oberholtzer (4-50-W), J.Fields (2-H), J.Thatcher (1-H), P.Neshek (1-H), C.Qualls (0)",2015
+68,Jun 18,@,COL,"W,8-4",9.0,7,4,4,0,6,11,1,0,3.64,40,165,108,0,0,0,0,33,2,0,0,1,0,0,0,4,David Rackley,"C.McHugh (4-55-W), T.Sipp (1-H), P.Neshek (0), J.Fields (0)",2015
+69,Jun 19,@,SEA,"L,2-5",8.0,8,5,3,2,4,7,0,0,3.64,36,135,79,2,1,1,0,32,1,0,0,0,0,1,1,3,Mike DiMuro,"L.McCullers (4-38-L), W.Harris (2), R.Hernandez (5)",2015
+70,Jun 20,@,SEA,"L,3-6",8.0,7,6,6,0,5,8,3,0,3.68,36,133,77,1,0,1,0,31,0,0,0,0,0,0,0,4,Tripp Gibson,"D.Keuchel (4-45-L), T.Sipp (1), J.Fields (1), C.Qualls (2)",2015
+71,Jun 21,@,SEA,"W,6-2",9.0,4,2,2,0,6,8,0,0,3.65,37,159,97,2,0,0,0,30,2,0,0,0,1,0,0,6,Brian Gorman,"V.Velasquez (4-53), T.Sipp (0), W.Harris (1-W), J.Thatcher (3-H), P.Neshek (2-H), L.Gregerson (4)",2015
+72,Jun 22,@,LAA,"L,3-4",8.0,7,4,4,0,5,8,2,1,3.67,38,155,98,4,1,1,0,31,0,0,0,1,0,1,0,5,John Tumpane,"B.Oberholtzer (4-54), J.Fields (1), C.Qualls (1-L), J.Thatcher (0), W.Harris (0)",2015
+73,Jun 23,@,LAA,"W,13-3",9.0,11,3,3,0,1,6,0,0,3.66,38,128,84,0,0,0,0,37,2,0,1,0,0,0,1,2,James Hoye,"C.McHugh (4-61-W), R.Hernandez (3)",2015
+74,Jun 24,@,LAA,"L,1-2",12.2,9,2,2,0,6,12,0,1,3.61,54,216,129,4,1,0,0,45,1,0,0,1,1,0,0,8,John Hirschbeck,"L.McCullers (4-63), W.Harris (1), T.Sipp (2), P.Neshek (2), J.Fields (1), L.Gregerson (2), J.Thatcher (1-L), C.Qualls (1)",2015
+75,Jun 25,,NYY,"W,4-0",9.0,6,0,0,0,1,12,0,0,3.57,33,116,79,,,0,0,32,0,0,0,0,0,0,1,1,Joe West,D.Keuchel (4-86-W),2015
+76,Jun 26,,NYY,"L,2-3",9.0,9,3,3,0,3,4,1,0,3.56,38,140,86,5,2,0,0,35,1,0,0,0,0,0,1,5,Kerwin Danley,"V.Velasquez (4-56), W.Harris (1-BL), T.Sipp (1), J.Thatcher (1), R.Hernandez (2)",2015
+77,Jun 27,,NYY,"L,6-9",9.0,10,9,8,1,7,4,3,1,3.62,46,167,94,0,0,1,0,37,3,0,0,1,0,1,1,5,Rob Drake,"B.Oberholtzer (4-20), R.Hernandez (0), J.Fields (2), P.Neshek (2-L), T.Sipp (0)",2015
+78,Jun 28,,NYY,"W,3-1",9.0,2,1,1,0,2,8,0,0,3.58,31,119,79,0,0,0,0,29,0,0,0,0,0,0,0,2,Ben May,"C.McHugh (4-80-W), L.Gregerson (3-Sv)",2015
+79,Jun 29,,KCR,"W,6-1",9.0,5,1,1,0,4,6,1,0,3.55,35,132,81,1,0,0,0,31,1,0,0,0,0,0,1,3,Andy Fletcher,"L.McCullers (4-69-W), J.Thatcher (2), W.Harris (2)",2015
+80,Jun 30,,KCR,"W,4-0",9.0,8,0,0,0,0,8,0,0,3.50,34,122,83,0,0,0,0,34,3,0,0,0,0,0,1,2,Jordan Baker,"D.Keuchel (4-75-W), P.Neshek (2)",2015
+2015
+81,Jul 1,,KCR,"W,6-5",9.0,7,5,5,0,1,8,1,1,3.52,35,128,85,1,1,1,0,33,0,2,0,0,0,0,1,5,Paul Emmel,"V.Velasquez (4-53), J.Fields (3-BSv), J.Thatcher (1-H), P.Neshek (0-H), L.Gregerson (2-W)",2015
+82,Jul 3,@,BOS,"W,12-8",10.0,11,8,7,1,6,11,1,0,3.56,47,199,123,7,3,0,1,40,1,0,0,1,0,1,0,8,Cory Blaser,"D.Straily (99-38), T.Sipp (5), J.Fields (1), J.Thatcher (1), W.Harris (3-BSv), P.Neshek (1-BSv), R.Hernandez (5-W), L.Gregerson (1)",2015
+83,Jul 4,@,BOS,"L,1-6",8.0,11,6,5,1,5,2,0,0,3.58,42,164,100,1,0,0,0,36,3,0,1,0,1,2,0,2,Chris Guccione,"C.McHugh (5-38-L), R.Hernandez (0)",2015
+84,Jul 5,@,BOS,"L,4-5",8.0,10,5,3,2,6,4,1,0,3.58,38,177,108,0,0,0,0,31,2,0,0,1,0,1,2,4,Clint Fagan,"L.McCullers (5-49), W.Harris (1), T.Sipp (1-BL), J.Fields (1)",2015
+85,Jul 6,@,CLE,"W,9-4",9.0,10,4,4,0,3,11,0,0,3.59,38,150,99,3,1,0,0,33,3,1,0,0,2,0,2,4,Mike Estabrook,"D.Keuchel (5-49-W), J.Thatcher (2), P.Neshek (2), J.Fields (0)",2015
+86,Jul 7,@,CLE,"L,0-2",8.0,8,2,2,0,2,6,1,0,3.57,33,129,82,1,0,0,0,31,1,0,0,0,0,0,1,3,Dana DeMuth,"V.Velasquez (5-56-L), T.Sipp (1), R.Hernandez (2)",2015
+87,Jul 8,@,CLE,"L,2-4",8.0,5,4,4,0,3,7,0,1,3.58,33,127,84,3,0,0,0,29,3,1,0,0,0,0,0,4,Paul Nauert,"D.Straily (4-60), W.Harris (2), J.Thatcher (1-L), P.Neshek (1)",2015
+88,Jul 9,@,CLE,"L,1-3",8.0,9,3,3,0,2,4,1,0,3.58,34,134,83,1,1,0,0,32,2,1,1,0,0,0,1,4,Ed Hickox,"B.Oberholtzer (11-43-L), J.Fields (2), T.Sipp (1), L.Gregerson (5)",2015
+89,Jul 10,@,TBR,"L,1-3",8.0,4,3,3,0,2,6,1,0,3.58,29,108,71,1,0,0,0,27,1,0,0,0,0,0,1,3,Sam Holbrook,"C.McHugh (5-62-L), J.Thatcher (1), C.Qualls (15)",2015
+90,Jul 11,@,TBR,"L,0-3",8.0,7,3,3,0,3,5,0,0,3.58,33,118,73,1,0,1,0,30,2,0,0,0,0,0,1,3,Greg Gibson,"D.Keuchel (4-53-L), W.Harris (2), T.Sipp (1)",2015
+91,Jul 12,@,TBR,"L,3-4",8.0,5,4,4,0,3,11,0,0,3.58,30,114,76,1,0,0,0,27,0,1,0,0,0,0,1,4,Toby Basner,"L.McCullers (6-55-L), W.Harris (0), J.Thatcher (1), P.Neshek (3)",2015
+92,Jul 17,,TEX,"W,3-2",9.0,15,2,2,0,0,6,0,0,3.57,39,147,98,0,0,0,0,39,2,1,0,0,0,0,1,4,Gerry Davis,"C.McHugh (6-50-W), W.Harris (4-H), P.Neshek (4-H), L.Gregerson (7-Sv)",2015
+93,Jul 18,,TEX,"L,6-7",9.0,14,7,7,0,2,5,3,0,3.60,43,159,103,2,0,3,0,38,3,1,0,2,1,1,1,5,Tony Randazzo,"S.Feldman (52-35-L), T.Sipp (6), J.Thatcher (5), C.Qualls (7), J.Fields (8)",2015
+94,Jul 19,,TEX,"W,10-0",9.0,3,0,0,0,0,14,0,0,3.57,30,118,78,0,0,0,0,30,2,0,0,0,0,0,0,3,Will Little,"D.Keuchel (7-86-W), C.Qualls (0), R.Hernandez (11)",2015
+95,Jul 21,,BOS,"W,8-3",9.0,8,3,3,0,0,8,0,0,3.56,33,127,89,0,0,0,0,33,4,0,0,0,0,0,2,4,Jordan Baker,"V.Velasquez (13-53-W), W.Harris (3), P.Neshek (3), J.Fields (2)",2015
+96,Jul 22,,BOS,"W,4-2",9.0,7,2,2,0,2,6,0,1,3.54,36,123,89,0,0,0,0,33,1,0,0,0,0,0,1,3,Paul Emmel,"C.McHugh (4-58-W), P.Neshek (0-H), L.Gregerson (4-Sv)",2015
+97,Jul 23,,BOS,"W,5-4",9.0,10,4,4,0,3,7,2,0,3.55,40,156,97,1,1,1,0,37,4,0,0,0,0,1,0,6,Jerry Meals,"L.McCullers (10-46), T.Sipp (4), C.Qualls (3), W.Harris (1-H), L.Gregerson (0-BSv), J.Fields (1-W)",2015
+98,Jul 24,@,KCR,"W,4-0",9.0,4,0,0,0,2,5,0,0,3.51,32,120,79,2,0,0,0,30,0,0,0,0,0,0,1,4,Ryan Blakney,"S.Kazmir (5-73-W), C.Qualls (0), T.Sipp (0), L.Gregerson (0-Sv)",2015
+99,Jul 25,@,KCR,"L,1-2",9.2,7,2,2,0,2,3,0,0,3.49,37,131,88,2,0,1,0,34,1,1,1,0,1,1,2,3,Tripp Gibson,"S.Feldman (6-68), P.Neshek (2), W.Harris (1-L)",2015
+100,Jul 26,@,KCR,"L,1-5",8.0,11,5,5,0,0,8,1,0,3.51,33,127,82,0,0,2,0,33,1,0,0,0,0,0,0,3,Chris Guccione,"D.Keuchel (6-39-L), J.Fields (2), V.Velasquez (4)",2015
+101,Jul 28,,LAA,"W,10-5",9.0,9,5,5,0,4,4,1,0,3.53,40,136,90,0,0,1,0,36,1,0,0,0,0,0,0,5,Sam Holbrook,"C.McHugh (5-32-W), J.Fields (1-H), W.Harris (2), C.Qualls (3), T.Sipp (3)",2015
+102,Jul 29,,LAA,"W,6-3",9.0,9,3,3,0,0,7,1,0,3.52,36,133,86,0,0,1,0,36,3,1,0,0,0,0,0,3,Greg Gibson,"L.McCullers (5-68-W), P.Neshek (3-H), L.Gregerson (4)",2015
+103,Jul 30,,LAA,"W,3-0",9.0,3,0,0,0,3,7,0,0,3.49,33,129,83,2,0,0,0,29,0,0,0,1,0,0,0,3,Clint Fagan,"S.Kazmir (5-75), P.Neshek (0), L.Gregerson (0-W)",2015
+104,Jul 31,,ARI,"L,4-6",10.0,14,6,6,0,1,9,2,0,3.51,45,167,109,3,2,0,0,43,1,0,1,1,0,1,1,7,Lance Barrett,"S.Feldman (5-45), C.Qualls (2-H), T.Sipp (2-BSv), W.Harris (2), L.Gregerson (0), P.Neshek (0-L), J.Fields (2)",2015
+2015
+105,Aug 1,,ARI,"W,9-2",9.0,2,2,2,0,4,11,0,0,3.49,34,160,102,0,0,0,0,30,0,0,0,0,0,1,0,3,CB Bucknor,"D.Keuchel (5-65-W), J.Fields (0), V.Velasquez (5)",2015
+106,Aug 2,,ARI,"W,4-1",9.0,9,1,1,0,1,8,0,0,3.47,36,124,87,0,0,0,0,35,5,0,0,0,0,0,0,3,Dale Scott,"C.McHugh (4-62-W), P.Neshek (1-H), L.Gregerson (1-Sv)",2015
+107,Aug 3,@,TEX,"L,9-12",8.0,15,12,12,0,5,8,2,0,3.55,44,183,112,2,0,1,0,39,2,2,0,0,0,0,0,4,Paul Schrieber,"L.McCullers (4-13-L), J.Fields (1), M.Fiers (4), C.Qualls (2)",2015
+108,Aug 4,@,TEX,"L,3-4",8.0,10,4,4,0,3,5,1,0,3.56,37,142,77,3,1,3,0,34,1,1,0,0,0,0,0,3,Fieldin Culbreth,"D.Straily (26-36-L), T.Sipp (3), W.Harris (3)",2015
+109,Aug 5,@,TEX,"L,3-4",8.0,7,4,1,3,2,8,1,0,3.54,34,134,90,2,0,1,0,30,0,0,0,1,1,2,1,4,Jim Reynolds,"S.Kazmir (5-50-L), C.Qualls (1), J.Fields (1), P.Neshek (2)",2015
+110,Aug 6,@,OAK,"W,5-4",10.0,7,4,2,2,4,5,2,0,3.52,41,168,95,0,0,0,0,37,1,0,0,0,0,1,1,5,Chris Guccione,"S.Feldman (5-55), C.Qualls (0), T.Sipp (1-H), L.Gregerson (3-BW), W.Harris (1-Sv)",2015
+111,Aug 7,@,OAK,"L,1-3",8.0,10,3,3,0,2,3,1,1,3.52,35,113,71,1,0,0,0,31,1,0,0,0,1,1,2,2,Cory Blaser,"D.Keuchel (5-48-L), A.Wojciechowski (99)",2015
+112,Aug 8,@,OAK,"L,1-2",8.0,5,2,2,0,3,10,0,0,3.51,32,148,96,0,0,1,0,29,3,0,0,0,0,0,0,3,Jeff Nelson,"C.McHugh (5-59-L), T.Sipp (1), C.Qualls (1)",2015
+113,Aug 9,@,OAK,"L,4-5",8.2,12,5,5,0,4,6,1,0,3.53,40,148,89,6,1,0,1,36,2,0,2,0,0,0,0,6,Pat Hoberg,"M.Fiers (5-63), O.Perez (3), W.Harris (2), T.Sipp (0), P.Neshek (3), L.Gregerson (2-BL)",2015
+114,Aug 11,@,SFG,"L,1-3",8.0,7,3,2,1,4,7,2,0,3.52,35,141,93,3,0,1,0,31,1,0,1,0,0,0,0,4,Dana DeMuth,"S.Kazmir (5-46-L), J.Fields (5), O.Perez (1), C.Qualls (2)",2015
+115,Aug 12,@,SFG,"W,2-0",9.0,5,0,0,0,1,8,0,0,3.49,32,119,86,1,0,1,0,31,2,0,0,0,0,0,1,5,Mike Estabrook,"S.Feldman (5-67-W), O.Perez (0-H), W.Harris (2-H), P.Neshek (2-H), L.Gregerson (2-Sv)",2015
+116,Aug 14,,DET,"W,5-1",9.0,6,1,1,0,1,11,0,0,3.46,34,126,88,0,0,0,0,33,1,0,0,0,0,1,1,3,Adrian Johnson,"D.Keuchel (6-68-W), P.Neshek (1-H), L.Gregerson (1)",2015
+117,Aug 15,,DET,"L,2-4",11.0,9,4,4,0,4,10,0,0,3.46,45,152,101,2,0,1,0,41,1,0,0,0,0,0,1,6,Bill Miller,"C.McHugh (6-70), J.Fields (3), C.Qualls (3), L.Gregerson (0), P.Neshek (0-L), T.Sipp (5)",2015
+118,Aug 16,,DET,"W,6-5",9.0,9,5,2,3,3,13,1,0,3.45,40,161,105,2,0,1,0,37,2,0,0,0,0,1,0,4,Doug Eddings,"M.Fiers (6-57), J.Fields (0-H), C.Qualls (0-H), W.Harris (3-BW)",2015
+119,Aug 17,,TBR,"L,2-9",9.0,15,9,6,3,4,11,1,0,3.47,46,180,126,2,1,0,0,41,0,0,0,0,1,1,1,4,Joe West,"S.Kazmir (5-29-L), J.Fields (0), T.Sipp (1), O.Perez (4)",2015
+120,Aug 18,,TBR,"W,3-2",10.0,9,2,2,0,2,5,1,0,3.46,40,137,86,0,0,0,0,38,1,0,0,0,0,0,1,3,Clint Fagan,"S.Feldman (5-51), W.Harris (1), L.Gregerson (2-W)",2015
+121,Aug 19,,TBR,"W,3-2",13.0,10,2,2,0,1,14,0,0,3.43,48,181,119,2,0,1,0,46,2,1,0,0,1,0,1,7,Rob Drake,"D.Keuchel (4-59), C.Qualls (2), P.Neshek (3), L.Gregerson (0), W.Harris (0), O.Perez (1), J.Fields (1-W)",2015
+122,Aug 20,,TBR,"L,0-1",9.0,8,1,1,0,2,7,0,0,3.41,36,142,94,0,0,0,1,33,0,0,0,1,0,0,0,3,D.J. Reyburn,"C.McHugh (4-66-L), T.Sipp (2), C.Qualls (0)",2015
+123,Aug 21,,LAD,"W,3-0",9.0,0,0,0,0,3,10,0,0,3.38,30,134,88,,,0,0,27,0,0,0,0,0,0,0,1,John Tumpane,M.Fiers (4-94-W),2015
+124,Aug 22,,LAD,"W,3-1",9.0,7,1,1,0,1,12,0,0,3.36,34,131,91,0,0,0,0,33,2,0,0,0,0,0,0,4,Bill Welke,"S.Kazmir (4-63-W), W.Harris (2-H), P.Neshek (2-H), L.Gregerson (2-Sv)",2015
+125,Aug 23,,LAD,"W,3-2",10.0,10,2,2,0,1,12,0,0,3.35,38,133,87,2,0,1,1,35,2,0,0,1,1,0,1,5,James Hoye,"L.McCullers (19-61), C.Qualls (2), T.Sipp (2), V.Velasquez (21), L.Gregerson (0-W)",2015
+126,Aug 24,@,NYY,"L,0-1",8.1,6,1,1,0,3,6,0,0,3.33,32,126,77,3,1,1,0,28,0,0,1,0,1,0,1,3,Gabe Morales,"S.Feldman (5-76), O.Perez (4-L), C.Qualls (0)",2015
+127,Aug 25,@,NYY,"W,15-1",9.0,4,1,1,0,0,12,0,1,3.31,32,121,84,0,0,0,0,31,1,0,0,0,0,0,0,2,Eric Cooper,"D.Keuchel (5-80-W), V.Velasquez (1)",2015
+128,Aug 26,@,NYY,"W,6-2",9.0,5,2,2,0,4,10,1,0,3.30,36,155,95,1,0,0,0,32,0,0,0,0,0,0,0,4,Sam Holbrook,"C.McHugh (5-61-W), T.Sipp (2-H), P.Neshek (3), W.Harris (3)",2015
+129,Aug 28,@,MIN,"L,0-3",8.0,3,3,3,0,2,7,1,2,3.30,30,116,73,0,0,0,0,26,1,0,0,0,0,0,0,2,Ben May,"S.Kazmir (5-64-L), C.Qualls (3)",2015
+130,Aug 29,@,MIN,"W,4-1",9.0,5,1,1,0,3,10,0,1,3.29,35,136,88,2,0,0,0,31,2,0,0,0,0,0,1,4,Doug Eddings,"M.Fiers (7-64-W), W.Harris (2-H), P.Neshek (2-H), L.Gregerson (5-Sv)",2015
+131,Aug 30,@,MIN,"L,5-7",8.0,8,7,7,0,4,7,2,1,3.32,37,152,89,1,1,1,0,31,2,1,0,0,1,0,0,4,Mark Ripperger,"L.McCullers (6-54-L), C.Qualls (1), O.Perez (5), V.Velasquez (4)",2015
+132,Aug 31,,SEA,"W,8-3",9.0,8,3,3,0,1,9,2,0,3.32,35,146,94,0,0,1,0,34,0,0,0,0,0,1,2,3,Angel Hernandez,"D.Keuchel (5-68-W), W.Harris (1), O.Perez (0)",2015
+2015
+133,Sep 1,,SEA,"L,5-7",9.0,9,7,7,0,7,8,3,0,3.34,41,187,110,2,1,2,1,34,0,1,0,0,0,0,0,4,Chris Conroy,"S.Feldman (7-37), V.Velasquez (1), P.Neshek (2-L), L.Gregerson (2)",2015
+134,Sep 2,,SEA,"L,3-8",9.0,13,8,5,3,6,9,1,0,3.36,46,196,122,5,1,2,0,39,3,0,2,1,0,1,0,6,Ted Barrett,"S.Kazmir (4-42), C.Qualls (2), W.Harris (1), P.Neshek (0-L), O.Perez (1), J.Fields (13)",2015
+135,Sep 4,,MIN,"W,8-0",9.0,7,0,0,0,1,9,0,0,3.33,33,127,79,0,0,0,0,32,2,0,0,0,0,0,1,3,Jim Reynolds,"C.McHugh (8-70-W), J.Thatcher (47), M.Feliz (95)",2015
+136,Sep 5,,MIN,"L,2-3",9.0,5,3,3,0,2,10,0,1,3.33,34,145,87,0,0,0,0,31,2,1,0,0,0,0,1,3,Paul Schrieber,"L.McCullers (5-73), W.Harris (2), L.Gregerson (3-L)",2015
+137,Sep 6,,MIN,"W,8-5",9.0,8,5,5,0,2,12,3,0,3.34,37,135,87,1,0,0,0,34,1,0,0,0,1,0,0,3,Fieldin Culbreth,"D.Keuchel (5-70-W), C.Qualls (3), L.Gregerson (0-Sv)",2015
+138,Sep 7,@,OAK,"L,9-10",8.0,10,10,10,0,9,7,2,0,3.39,42,185,113,8,3,1,1,33,1,1,0,0,0,0,0,5,Alan Porter,"M.Fiers (8-42-L), J.Fields (4), J.Thatcher (2), V.Velasquez (5), M.Feliz (2)",2015
+139,Sep 8,@,OAK,"L,0-4",8.0,8,4,4,0,2,7,2,0,3.40,33,121,83,0,0,1,0,31,0,0,0,0,0,0,0,3,Brian O'Nora,"S.Kazmir (5-43-L), C.Qualls (1), J.Fields (0)",2015
+140,Sep 9,@,OAK,"W,11-5",9.0,9,5,5,0,2,11,2,0,3.41,38,158,100,1,1,1,0,36,0,0,0,0,0,0,0,5,Mark Ripperger,"C.McHugh (4-39-W), C.Qualls (0), W.Harris (3), P.Neshek (6), O.Perez (6)",2015
+141,Sep 11,@,LAA,"L,2-3",8.0,6,3,0,3,3,7,0,0,3.39,32,138,92,0,0,0,0,29,1,0,0,0,0,1,1,3,Alfonso Marquez,"D.Keuchel (4-61-L), J.Fields (2), P.Neshek (1)",2015
+142,Sep 12,@,LAA,"L,2-3",8.0,9,3,3,0,3,2,1,0,3.39,36,138,87,0,0,0,0,33,3,0,0,0,0,1,1,3,Tom Hallion,"L.McCullers (6-44), V.Velasquez (4), W.Harris (2-L)",2015
+143,Sep 13,@,LAA,"W,5-3",9.0,6,3,3,0,0,10,3,0,3.39,33,132,89,0,0,0,0,33,1,0,0,0,0,0,0,4,Dan Bellino,"M.Fiers (5-61), T.Sipp (17), C.Qualls (3-W), L.Gregerson (6-Sv)",2015
+144,Sep 14,@,TEX,"L,3-5",8.0,8,5,4,1,1,5,2,1,3.39,34,116,74,0,0,0,0,32,2,0,0,0,0,1,0,4,Gerry Davis,"S.Kazmir (5-60), O.Perez (4), W.Harris (1-L), T.Sipp (0)",2015
+145,Sep 15,@,TEX,"L,5-6",8.1,14,6,6,0,3,7,0,1,3.41,41,164,106,4,1,3,0,35,1,0,0,1,1,0,2,8,Phil Cuzzi,"C.McHugh (5-26), J.Thatcher (7), J.Fields (3), T.Sipp (0), C.Qualls (1), P.Neshek (3), O.Perez (0-L), W.Harris (0)",2015
+146,Sep 16,@,TEX,"L,3-14",8.0,16,14,14,0,2,6,5,1,3.49,43,155,98,2,0,0,0,40,2,0,0,0,0,0,0,2,Gabe Morales,"D.Keuchel (4-11-L), M.Feliz (8)",2015
+147,Sep 17,@,TEX,"L,2-8",8.0,10,8,8,0,5,9,1,0,3.52,39,152,101,2,2,3,0,33,3,0,1,1,0,0,0,5,Tony Randazzo,"L.McCullers (4-52-L), J.Fields (1), T.Sipp (1), O.Perez (1), V.Velasquez (4)",2015
+148,Sep 18,,OAK,"L,3-4",9.0,10,4,4,0,1,10,3,0,3.53,38,159,102,2,0,0,0,37,0,0,0,0,0,0,0,4,Toby Basner,"M.Fiers (4-59), W.Harris (2-H), P.Neshek (2-BL), J.Fields (0)",2015
+149,Sep 19,,OAK,"W,10-6",9.0,10,6,6,0,4,10,2,1,3.54,40,163,104,2,0,0,0,35,2,1,0,0,0,1,2,6,Mike Winters,"S.Kazmir (4-38), V.Velasquez (1), C.Qualls (3-W), W.Harris (0-H), T.Sipp (1-H), L.Gregerson (5)",2015
+150,Sep 20,,OAK,"W,5-1",9.0,4,1,1,0,2,9,0,0,3.53,32,127,82,0,0,0,0,30,2,0,0,0,0,0,0,2,Mike Muchlinski,"C.McHugh (4-76-W), L.Gregerson (0)",2015
+151,Sep 21,,LAA,"W,6-3",9.0,9,3,3,0,2,7,0,0,3.52,37,151,89,5,1,0,0,35,1,0,0,0,0,0,0,5,Angel Hernandez,"D.Keuchel (4-68-W), P.Neshek (2), J.Fields (2), O.Perez (3), L.Gregerson (0-Sv)",2015
+152,Sep 22,,LAA,"L,3-4",9.0,7,4,4,0,0,11,2,2,3.53,35,140,95,4,1,0,0,32,1,0,0,1,0,0,1,5,Chris Conroy,"L.McCullers (4-66-L), C.Qualls (2), J.Thatcher (6), P.Neshek (0), W.Harris (2)",2015
+153,Sep 23,,LAA,"L,5-6",9.0,8,6,6,0,5,4,1,0,3.54,41,164,100,4,2,0,0,36,3,0,1,0,0,1,0,6,Ted Barrett,"M.Fiers (4-54), O.Perez (1), W.Harris (0-L), P.Neshek (0-BSv), T.Sipp (3), J.Fields (1)",2015
+154,Sep 25,,TEX,"L,2-6",9.0,13,6,6,0,2,5,1,1,3.56,42,159,107,3,0,0,0,39,4,1,0,0,0,1,1,6,Larry Vanover,"S.Kazmir (5-17-L), J.Fields (1), V.Velasquez (5), J.Thatcher (2), D.Straily (51), O.Perez (1)",2015
+155,Sep 26,,TEX,"W,9-7",9.0,12,7,7,0,2,11,1,1,3.58,41,158,108,3,0,0,1,38,1,0,0,0,0,0,0,6,Brian Knight,"C.McHugh (5-47-W), T.Sipp (2-H), C.Qualls (3), O.Perez (0), L.Gregerson (4), W.Harris (2-Sv)",2015
+156,Sep 27,,TEX,"W,4-2",9.0,3,2,2,0,2,12,0,0,3.57,32,149,90,1,1,1,0,30,0,1,0,0,0,0,0,4,Vic Carapazza,"D.Keuchel (5-77-W), O.Perez (0), W.Harris (0-H), L.Gregerson (0-Sv)",2015
+157,Sep 28,@,SEA,"W,3-2",9.0,4,2,2,0,2,12,1,0,3.56,31,131,83,1,0,0,1,29,0,0,0,0,0,0,1,4,Jordan Baker,"L.McCullers (5-61-W), T.Sipp (1-H), O.Perez (0-H), L.Gregerson (0-Sv)",2015
+158,Sep 29,@,SEA,"L,4-6",8.0,9,6,5,1,3,10,1,0,3.57,36,160,104,4,1,1,0,31,1,0,0,0,2,0,0,6,Paul Emmel,"M.Fiers (5-51), C.Qualls (2), J.Thatcher (3), W.Harris (1), O.Perez (0-L), P.Neshek (5)",2015
+159,Sep 30,@,SEA,"W,7-6",9.0,12,6,4,2,2,9,2,1,3.57,41,132,90,4,0,0,0,38,0,0,0,0,0,1,1,6,Andy Fletcher,"S.Kazmir (4-30), J.Fields (4), T.Sipp (1-W), W.Harris (0-H), O.Perez (0-H), L.Gregerson (1-Sv)",2015
+160,Oct 2,@,ARI,"W,21-5",9.0,11,5,4,1,3,7,1,1,3.58,41,168,104,0,0,0,0,37,5,0,0,0,0,2,1,4,Laz Diaz,"D.Keuchel (4-53-W), J.Thatcher (2), V.Velasquez (6), M.Feliz (15)",2015
+161,Oct 3,@,ARI,"W,6-2",9.0,7,2,2,0,1,7,1,0,3.57,35,113,75,0,0,0,0,34,2,0,1,0,0,0,0,3,Jeff Nelson,"C.McHugh (6-66-W), W.Harris (2), L.Gregerson (2)",2015
+162,Oct 4,@,ARI,"L,3-5",8.0,11,5,4,1,3,9,2,0,3.57,39,144,98,2,0,1,0,36,4,0,0,0,0,1,0,5,Cory Blaser,"L.McCullers (5-49), T.Sipp (3), C.Qualls (4-L), O.Perez (3), P.Neshek (4)",2015

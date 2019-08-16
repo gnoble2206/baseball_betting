@@ -1,0 +1,169 @@
+Gtm,Date,,Opp,Rslt,IP,H,R,ER,UER,BB,SO,HR,HBP,ERA,BF,Pit,Str,IR,IS,SB,CS,AB,2B,3B,IBB,SH,SF,ROE,GDP,#,Umpire,Pitchers Used (Rest-GameScore-Dec)
+2015
+1,Apr 6,@,ARI,"W,5-4",9.0,9,4,4,0,3,6,0,2,4.00,39,132,86,6,3,0,0,34,1,1,0,0,0,0,2,6,Gary Cederstrom,"M.Bumgarner (99-63-W), J.Lopez (99), J.Machi (99), S.Romo (99-H), J.Affeldt (99-H), S.Casilla (99-Sv)",2015
+2,Apr 7,@,ARI,"L,6-7",8.0,8,7,7,0,5,7,2,0,5.82,36,140,89,0,0,1,0,31,1,1,0,0,0,0,1,3,Eric Cooper,"R.Vogelsong (99-25-L), Y.Petit (99), G.Kontos (99)",2015
+3,Apr 8,@,ARI,"W,5-2",9.0,5,2,0,2,2,7,0,1,3.81,35,123,75,0,0,0,0,32,2,0,0,0,0,0,0,4,Rob Drake,"C.Heston (99-65-W), J.Machi (1-H), S.Romo (1-H), S.Casilla (1-Sv)",2015
+4,Apr 9,@,SDP,"W,1-0",12.0,7,0,0,0,5,7,0,0,2.61,46,165,103,4,0,0,0,41,1,0,1,0,0,2,4,7,Tripp Gibson,"T.Hudson (99-59), J.Affeldt (2), S.Romo (0), J.Machi (0), J.Lopez (2), G.Kontos (1-W), S.Casilla (0-Sv)",2015
+5,Apr 10,@,SDP,"L,0-1",8.0,5,1,1,0,4,6,0,0,2.35,30,115,72,1,0,2,0,26,1,0,2,0,0,0,2,3,Vic Carapazza,"T.Lincecum (99-71), J.Affeldt (0-L), Y.Petit (2)",2015
+6,Apr 11,@,SDP,"L,2-10",8.0,20,10,9,1,1,8,0,0,3.50,44,179,119,2,0,0,1,42,4,0,0,0,1,1,1,3,Larry Vanover,"M.Bumgarner (4-23-L), R.Vogelsong (3), G.Kontos (1)",2015
+7,Apr 12,@,SDP,"L,4-6",8.0,9,6,6,0,4,6,2,0,3.92,36,151,97,2,0,1,0,32,1,2,0,0,0,0,1,4,Ron Kulpa,"J.Peavy (99-40-L), Y.Petit (1), J.Machi (2), J.Lopez (2)",2015
+8,Apr 13,,COL,"L,0-2",9.0,11,2,1,1,3,5,0,0,3.55,38,122,82,2,0,0,1,35,2,0,1,0,0,0,2,4,Tripp Gibson,"C.Heston (4-60-L), J.Affeldt (2), G.Kontos (1), J.Lopez (0)",2015
+9,Apr 14,,COL,"L,1-4",9.0,9,4,4,0,2,6,0,1,3.60,37,130,82,1,0,0,1,32,2,1,0,2,0,0,1,4,Brian Gorman,"T.Hudson (4-53-L), J.Machi (1), S.Casilla (4), J.Lopez (0)",2015
+10,Apr 15,,COL,"L,2-4",9.0,6,4,3,1,1,10,1,0,3.54,35,135,93,0,0,1,0,32,0,0,0,1,1,1,0,4,Mark Carlson,"T.Lincecum (4-44-L), G.Kontos (1), Y.Petit (2), S.Romo (5)",2015
+11,Apr 16,,ARI,"L,6-7",12.0,11,7,7,0,3,8,3,1,3.74,51,171,121,3,0,1,0,47,2,0,1,0,0,0,0,6,CB Bucknor,"M.Bumgarner (4-52), J.Machi (1), J.Affeldt (2), S.Casilla (1), J.Lopez (1), S.Romo (0-L)",2015
+12,Apr 17,,ARI,"L,0-9",9.0,18,9,8,1,6,8,0,0,4.09,51,176,107,4,0,2,0,44,3,1,0,0,1,0,0,4,Chris Segal,"J.Peavy (4-30-L), G.Kontos (1), R.Vogelsong (5), Y.Petit (1)",2015
+13,Apr 18,,ARI,"W,4-1",9.0,6,1,1,0,1,8,1,1,3.86,34,127,78,1,0,0,0,32,1,0,0,0,0,0,1,3,Lance Barrett,"C.Heston (4-70-W), S.Romo (1-H), S.Casilla (1-Sv)",2015
+14,Apr 19,,ARI,"L,1-5",9.0,8,5,5,0,2,7,1,1,3.94,38,124,87,2,0,1,0,35,1,0,0,0,0,0,0,4,Dan Iassogna,"T.Hudson (4-39-L), G.Kontos (1), J.Machi (2), J.Affeldt (2)",2015
+15,Apr 21,,LAD,"W,6-2",9.0,7,2,2,0,6,6,0,0,3.81,36,134,70,6,1,0,0,30,2,0,0,0,0,0,3,6,Fieldin Culbreth,"T.Lincecum (5-60-W), J.Affeldt (1-H), S.Romo (2-H), J.Lopez (4-H), J.Machi (1), S.Casilla (2-Sv)",2015
+16,Apr 22,,LAD,"W,3-2",9.0,7,2,2,0,3,10,1,0,3.70,38,146,97,0,0,0,0,35,0,0,0,0,0,1,0,4,Clint Fagan,"M.Bumgarner (5-57), G.Kontos (2), S.Romo (0), S.Casilla (0-W)",2015
+17,Apr 23,,LAD,"W,3-2",10.0,6,2,2,0,2,7,2,2,3.58,39,138,88,1,0,0,0,34,0,0,0,1,0,0,1,6,Manny Gonzalez,"R.Vogelsong (5-62), J.Affeldt (1), G.Kontos (0), J.Lopez (1), J.Machi (1), S.Casilla (0-W)",2015
+18,Apr 24,@,COL,"L,4-6",8.0,15,6,6,0,3,4,1,0,3.73,41,134,85,2,1,0,1,38,7,0,1,0,0,0,0,3,John Tumpane,"C.Heston (5-25-L), J.Lopez (0), Y.Petit (6)",2015
+19,Apr 25,@,COL,"W,5-4",11.0,12,4,4,0,0,3,2,0,3.70,42,140,93,0,0,0,1,42,0,0,0,0,0,0,2,6,John Hirschbeck,"T.Hudson (5-51), S.Romo (2-H), J.Affeldt (1-H), S.Casilla (1-BSv), J.Lopez (0), J.Machi (1-W)",2015
+20,Apr 27,@,LAD,"L,3-8",8.0,11,8,8,0,5,2,2,0,3.93,39,136,89,1,0,1,0,33,1,1,0,1,0,0,0,4,Eric Cooper,"T.Lincecum (5-29-L), G.Kontos (3), Y.Petit (2), J.Lopez (1)",2015
+21,Apr 28,@,LAD,"W,2-1",9.0,5,1,1,0,1,10,0,0,3.80,33,120,80,0,0,0,0,32,1,0,0,0,0,1,1,2,Gary Cederstrom,"M.Bumgarner (5-76-W), S.Casilla (2-Sv)",2015
+22,Apr 29,@,LAD,"L,3-7",8.0,8,7,7,0,3,4,4,0,3.96,33,119,71,0,0,0,0,28,3,0,0,0,2,0,2,5,Sean Barber,"R.Vogelsong (5-26-L), G.Kontos (1), J.Lopez (1), J.Machi (3), Y.Petit (1)",2015
+2015
+23,May 1,,LAA,"W,3-2",9.0,7,2,1,1,1,7,0,1,3.83,37,144,95,7,1,1,0,34,1,0,0,0,1,1,0,5,Bill Miller,"C.Heston (6-63), J.Machi (1), S.Romo (5-H), J.Affeldt (5), S.Casilla (2-BW)",2015
+24,May 2,,LAA,"W,5-4",9.0,6,4,4,0,2,4,2,0,3.84,33,117,79,5,2,0,1,31,0,0,0,0,0,0,0,4,Adam Hamari,"T.Hudson (6-67-W), S.Romo (0-H), J.Affeldt (0), S.Casilla (0-Sv)",2015
+25,May 3,,LAA,"W,5-0",9.0,3,0,0,0,2,6,0,0,3.69,32,124,79,0,0,0,0,30,0,0,0,0,0,1,1,2,Doug Eddings,"T.Lincecum (5-79-W), J.Machi (1)",2015
+26,May 4,,SDP,"W,2-0",9.0,2,0,0,0,1,9,0,0,3.55,33,128,87,0,0,0,0,32,0,0,0,0,0,3,0,3,Kerwin Danley,"M.Bumgarner (5-79-W), S.Romo (1-H), S.Casilla (1-Sv)",2015
+27,May 5,,SDP,"W,6-0",9.0,4,0,0,0,2,8,0,0,3.42,33,119,78,0,0,1,0,31,0,0,0,0,0,0,0,3,Rob Drake,"R.Vogelsong (5-73-W), G.Kontos (5), Y.Petit (5)",2015
+28,May 6,,SDP,"L,1-9",9.0,16,9,9,0,7,7,0,0,3.61,50,171,103,2,0,3,0,42,4,1,0,0,1,0,1,6,Gabe Morales,"C.Heston (4-26-L), G.Kontos (0), J.Lopez (6), J.Machi (2), J.Affeldt (3), Y.Petit (0)",2015
+29,May 7,,MIA,"L,2-7",9.0,17,7,7,0,0,4,1,0,3.73,41,135,96,1,0,0,0,40,2,0,0,0,1,0,2,4,Mark Wegner,"T.Hudson (4-23-L), G.Kontos (0), J.Machi (0), J.Affeldt (0)",2015
+30,May 8,,MIA,"W,6-0",9.0,3,0,0,0,4,10,0,0,3.61,34,152,96,0,0,0,0,30,1,0,0,0,0,0,0,2,Marty Foster,"T.Lincecum (4-71-W), Y.Petit (1-Sv)",2015
+31,May 9,,MIA,"L,2-6",9.0,8,6,6,0,5,15,1,0,3.68,41,181,112,2,0,0,0,35,4,0,0,1,0,0,0,6,Mike Muchlinski,"M.Bumgarner (4-53-L), G.Kontos (1), J.Lopez (2), J.Machi (1), S.Romo (4), S.Casilla (4)",2015
+32,May 10,,MIA,"W,3-2",9.0,7,2,2,0,2,7,0,0,3.63,35,136,85,1,0,3,0,33,3,0,0,0,0,0,0,4,Mike Winters,"R.Vogelsong (4-70), S.Romo (0), J.Affeldt (2), S.Casilla (0-W)",2015
+33,May 12,@,HOU,"W,8-1",9.0,2,1,1,0,0,10,1,0,3.55,29,111,74,,,0,0,29,0,0,0,0,0,0,0,1,Chad Fairchild,C.Heston (5-89-W),2015
+34,May 13,@,HOU,"L,3-4",8.0,8,4,4,0,3,7,3,0,3.58,33,116,75,0,0,0,0,30,0,0,0,0,0,0,2,5,Jim Joyce,"T.Hudson (5-46), J.Lopez (3), G.Kontos (3), J.Affeldt (2-L), S.Romo (2)",2015
+35,May 14,@,CIN,"L,3-4",8.0,7,4,4,0,6,8,1,1,3.60,36,143,82,3,0,3,1,29,1,0,0,0,0,0,0,5,Alfonso Marquez,"T.Lincecum (5-41), J.Lopez (0), J.Machi (4), S.Romo (0-L), J.Affeldt (0)",2015
+36,May 15,@,CIN,"W,10-2",9.0,10,2,2,0,0,5,2,0,3.56,37,129,92,0,0,0,0,37,2,0,0,0,0,0,0,2,Dan Bellino,"M.Bumgarner (5-57-W), Y.Petit (6)",2015
+37,May 16,@,CIN,"W,11-2",9.0,7,2,2,0,5,5,1,1,3.51,40,138,84,2,0,0,0,34,2,0,0,0,0,0,0,3,Bruce Dreckman,"R.Vogelsong (5-47-W), J.Machi (1), G.Kontos (2)",2015
+38,May 17,@,CIN,"W,9-8",9.0,12,8,7,1,3,6,2,1,3.61,43,147,92,4,1,0,0,38,2,0,0,0,1,0,0,7,Tom Hallion,"C.Heston (4-22), Y.Petit (1-W), J.Lopez (2-H), G.Kontos (0-H), J.Affeldt (2-H), S.Romo (2-H), S.Casilla (6-Sv)",2015
+39,May 19,,LAD,"W,2-0",9.0,7,0,0,0,5,3,0,0,3.51,38,146,89,5,0,0,1,33,1,0,0,0,0,0,0,5,Chris Conroy,"T.Hudson (5-63-W), J.Machi (2-H), J.Lopez (1), S.Romo (1-H), S.Casilla (1-Sv)",2015
+40,May 20,,LAD,"W,4-0",9.0,6,0,0,0,2,5,0,0,3.42,35,140,95,2,0,0,0,33,2,0,0,0,0,0,0,4,Angel Hernandez,"T.Lincecum (5-73-W), J.Machi (0), J.Lopez (0-H), J.Affeldt (2)",2015
+41,May 21,,LAD,"W,4-0",9.0,9,0,0,0,3,8,0,0,3.34,37,150,96,1,0,0,0,34,2,0,0,0,0,1,2,5,Scott Barry,"M.Bumgarner (5-63-W), G.Kontos (3-H), J.Lopez (0-H), S.Romo (1-H), S.Casilla (1)",2015
+42,May 22,@,COL,"W,11-8",9.0,13,8,8,0,4,6,1,0,3.45,43,149,95,4,1,1,0,39,3,0,0,0,0,1,2,6,Mike Estabrook,"R.Vogelsong (5-70-W), G.Kontos (0), J.Machi (1), S.Romo (0-H), J.Affeldt (1), S.Casilla (0-Sv)",2015
+43,May 23(1),@,COL,"W,10-8",9.0,13,8,8,0,2,6,3,0,3.56,41,150,95,2,1,0,1,38,1,0,0,1,0,0,0,5,Dana DeMuth,"C.Heston (5-29-W), J.Lopez (1), H.Strickland (99), S.Romo (0), S.Casilla (0-Sv)",2015
+44,May 23(2),@,COL,"L,3-5",8.0,9,5,5,0,3,3,1,1,3.60,37,107,72,2,0,0,0,32,1,0,1,1,0,0,0,3,Paul Nauert,"Y.Petit (5-43-L), J.Affeldt (0), G.Kontos (0)",2015
+45,May 24,@,COL,"L,2-11",8.0,11,11,10,1,3,3,1,2,3.75,41,139,87,4,2,0,0,36,2,1,0,0,0,1,0,4,Ed Hickox,"T.Hudson (4-16-L), J.Machi (1), J.Lopez (0), G.Kontos (0)",2015
+46,May 25,@,MIL,"W,8-4",9.0,5,4,4,0,4,7,3,0,3.76,36,149,88,1,0,1,0,32,1,0,0,0,0,0,0,3,Will Little,"T.Lincecum (4-42-W), J.Affeldt (1), H.Strickland (1)",2015
+47,May 26,@,MIL,"W,6-3",9.0,8,3,3,0,2,7,1,0,3.74,37,146,95,1,0,0,0,34,1,0,0,0,1,0,0,4,Phil Cuzzi,"M.Bumgarner (4-53-W), G.Kontos (1-H), S.Romo (2-H), S.Casilla (2-Sv)",2015
+48,May 27,@,MIL,"W,3-1",9.0,6,1,1,0,0,10,0,0,3.68,32,150,100,0,0,0,0,32,0,2,0,0,0,0,1,4,Gerry Davis,"R.Vogelsong (4-61-W), H.Strickland (1-H), S.Romo (0-H), S.Casilla (0-Sv)",2015
+49,May 28,,ATL,"W,7-0",9.0,4,0,0,0,1,9,0,0,3.61,32,120,75,2,0,1,0,31,0,0,0,0,0,0,0,4,Dan Iassogna,"C.Heston (4-75-W), J.Affeldt (2-H), S.Romo (0-H), J.Lopez (3)",2015
+50,May 29,,ATL,"W,4-2",9.0,6,2,2,0,2,6,1,0,3.58,34,119,77,0,0,0,0,32,0,0,0,0,0,0,1,3,CB Bucknor,"T.Hudson (4-67-W), H.Strickland (1-H), S.Casilla (1-Sv)",2015
+51,May 30,,ATL,"L,0-8",9.0,14,8,8,0,2,10,1,0,3.66,42,150,100,2,0,3,0,40,2,1,0,0,0,0,1,4,Lance Barrett,"T.Lincecum (4-34-L), G.Kontos (3), Y.Petit (6), J.Machi (5)",2015
+52,May 31,,ATL,"L,5-7",9.0,9,7,6,1,2,6,2,0,3.71,39,142,92,4,0,0,0,37,0,1,0,0,0,1,0,6,Dale Scott,"M.Bumgarner (4-56), G.Kontos (0), J.Affeldt (2), H.Strickland (1-H), S.Casilla (1-BL), J.Lopez (2)",2015
+2015
+53,Jun 1,,PIT,"L,3-4",9.0,6,4,3,1,2,7,0,1,3.69,37,129,81,0,0,0,0,32,4,0,0,0,2,1,0,3,Adrian Johnson,"R.Vogelsong (4-51-L), J.Machi (1), G.Kontos (0)",2015
+54,Jun 2,,PIT,"L,4-7",9.0,14,7,7,0,4,10,1,0,3.76,44,161,103,3,1,0,0,40,2,1,1,0,0,0,1,5,Bill Miller,"C.Heston (4-30-L), Y.Petit (2), J.Affeldt (1), J.Lopez (1), S.Romo (4)",2015
+55,Jun 3,,PIT,"L,2-5",9.0,11,5,5,0,1,9,1,0,3.78,38,135,91,2,1,2,0,37,2,0,0,0,0,0,1,4,Doug Eddings,"T.Hudson (4-60-L), H.Strickland (2), S.Romo (0), J.Lopez (0)",2015
+56,Jun 5,@,PHI,"W,5-4",9.0,6,4,4,0,4,7,2,0,3.78,35,142,90,0,0,1,0,31,1,0,0,0,0,0,1,5,Mike Muchlinski,"T.Lincecum (5-48-W), H.Strickland (1-H), J.Lopez (1-H), S.Romo (1-H), S.Casilla (4-Sv)",2015
+57,Jun 6,@,PHI,"W,7-5",9.0,6,5,5,0,1,13,2,1,3.80,33,118,90,0,0,0,0,31,0,0,0,0,0,0,1,2,Mike Winters,"M.Bumgarner (5-61-W), S.Casilla (0-Sv)",2015
+58,Jun 7,@,PHI,"L,4-6",8.0,10,6,6,0,2,7,2,0,3.85,34,117,72,3,2,0,1,31,3,0,0,1,0,0,1,4,Mark Wegner,"R.Vogelsong (5-43-L), J.Lopez (1), J.Affeldt (4), G.Kontos (5)",2015
+59,Jun 9,@,NYM,"W,5-0",9.0,0,0,0,0,0,11,0,3,3.78,29,110,72,,,0,0,26,0,0,0,0,0,0,1,1,Rob Drake,C.Heston (6-98-W),2015
+60,Jun 10,@,NYM,"W,8-5",9.0,11,5,5,0,2,10,0,1,3.80,38,153,105,3,0,0,0,35,3,1,0,0,0,0,2,6,Joe West,"T.Hudson (6-34-W), G.Kontos (2-H), J.Affeldt (2-H), H.Strickland (4-H), S.Romo (4-H), S.Casilla (3-Sv)",2015
+61,Jun 11,@,NYM,"L,4-5",8.2,9,5,4,1,4,7,0,1,3.81,40,161,96,4,0,0,0,34,4,0,1,0,1,1,1,6,Chris Segal,"T.Lincecum (5-48), Y.Petit (8), H.Strickland (0-BSv), J.Lopez (3), G.Kontos (0), S.Romo (0-L)",2015
+62,Jun 12,,ARI,"L,0-1",9.0,11,1,1,0,4,8,0,0,3.76,39,144,90,3,0,0,0,33,1,0,0,2,0,0,2,4,Mark Carlson,"M.Bumgarner (5-64-L), S.Casilla (1), J.Affeldt (1), H.Strickland (0)",2015
+63,Jun 13,,ARI,"L,2-4",9.0,7,4,4,0,5,6,0,0,3.77,37,135,83,2,0,1,1,32,0,0,0,0,0,0,1,5,Brian Gorman,"R.Vogelsong (5-29-L), Y.Petit (1), M.Broadway (99), J.Affeldt (0), G.Kontos (1)",2015
+64,Jun 14,,ARI,"L,0-4",9.0,8,4,2,2,5,11,0,1,3.74,40,161,102,0,0,2,1,33,2,0,1,0,1,2,1,4,Adam Hamari,"C.Heston (4-45-L), G.Kontos (0), J.Lopez (2), M.Broadway (0)",2015
+65,Jun 15,,SEA,"L,1-5",9.0,12,5,5,0,1,8,1,0,3.76,40,159,101,2,0,1,0,39,0,0,0,0,0,1,1,4,James Hoye,"T.Hudson (4-41-L), Y.Petit (1), J.Affeldt (1), H.Strickland (2)",2015
+66,Jun 16,,SEA,"W,6-2",9.0,5,2,2,0,4,4,1,0,3.73,35,130,76,2,0,2,0,31,0,0,0,0,0,0,1,5,John Hirschbeck,"T.Lincecum (4-50-W), G.Kontos (1-H), J.Lopez (1-H), S.Romo (4-H), S.Casilla (3)",2015
+67,Jun 17,@,SEA,"L,0-2",8.0,4,2,2,0,1,9,0,0,3.71,28,112,75,,,0,1,27,1,1,1,0,0,0,0,1,Bill Welke,M.Bumgarner (4-74-L),2015
+68,Jun 18,@,SEA,"W,7-0",9.0,5,0,0,0,4,8,0,0,3.66,34,144,83,2,0,0,0,30,0,0,0,0,0,0,1,4,John Tumpane,"R.Vogelsong (4-72-W), J.Lopez (1-H), H.Strickland (2), J.Affeldt (2)",2015
+69,Jun 19,@,LAD,"W,9-5",9.0,9,5,5,0,2,4,1,1,3.68,37,124,80,3,0,0,0,34,3,0,0,0,0,0,2,5,Laz Diaz,"C.Heston (4-44-W), J.Affeldt (0-H), G.Kontos (2), M.Broadway (4), S.Casilla (2-Sv)",2015
+70,Jun 20,@,LAD,"W,6-2",9.0,7,2,2,0,2,6,2,0,3.65,35,127,82,1,0,0,0,33,2,0,0,0,0,0,1,3,Chris Guccione,"T.Hudson (4-54-W), H.Strickland (1), S.Romo (3)",2015
+71,Jun 21,@,LAD,"L,2-10",8.0,16,10,10,0,3,5,4,0,3.75,43,151,97,1,0,0,0,38,3,0,0,2,0,0,0,4,Clint Fagan,"T.Lincecum (4-21-L), Y.Petit (5), M.Broadway (1), J.Lopez (2)",2015
+72,Jun 23,,SDP,"L,2-3",11.0,8,3,3,0,2,18,0,0,3.73,41,174,119,2,0,0,1,39,3,0,0,0,0,0,0,6,Fieldin Culbreth,"M.Bumgarner (5-73), J.Lopez (1), S.Romo (2), J.Affeldt (3), S.Casilla (3), H.Strickland (2-L)",2015
+73,Jun 24,,SDP,"W,6-0",9.0,5,0,0,0,2,7,0,0,3.68,34,122,80,0,0,1,0,32,2,0,0,0,0,0,0,4,Jim Reynolds,"R.Vogelsong (5-64-W), J.Lopez (0), G.Kontos (4), J.Machi (22)",2015
+74,Jun 25,,SDP,"W,13-8",9.0,12,8,8,0,2,8,1,1,3.73,40,147,91,3,2,0,0,37,2,1,0,0,0,0,2,5,Manny Gonzalez,"C.Heston (5-64-W), J.Affeldt (1), J.Lopez (0), S.Romo (1-H), H.Strickland (1)",2015
+75,Jun 26,,COL,"L,6-8",9.0,17,8,8,0,2,6,2,0,3.79,44,142,105,5,2,0,1,42,1,1,1,0,0,0,1,5,Marvin Hudson,"T.Hudson (5-39-L), J.Lopez (0), G.Kontos (1), M.Broadway (4), J.Machi (1)",2015
+76,Jun 27,,COL,"W,7-5",9.0,8,5,5,0,5,2,0,0,3.81,40,156,92,2,0,2,0,34,4,0,0,0,1,0,0,5,Sam Holbrook,"T.Lincecum (5-34), Y.Petit (5), G.Kontos (0-W), S.Romo (1-H), S.Casilla (3-Sv)",2015
+77,Jun 28,,COL,"W,6-3",9.0,7,3,3,0,2,8,2,0,3.80,33,119,79,1,0,0,0,31,0,0,0,0,0,0,3,4,Greg Gibson,"M.Bumgarner (4-67-W), S.Romo (0), J.Lopez (1-H), S.Casilla (0)",2015
+78,Jun 30,@,MIA,"L,3-5",8.0,9,5,5,0,4,4,2,0,3.82,37,112,66,1,0,1,0,30,1,0,0,2,1,0,0,4,Chris Conroy,"R.Vogelsong (5-43-L), G.Kontos (2), J.Machi (3), J.Lopez (1)",2015
+2015
+79,Jul 1,@,MIA,"L,5-6",8.0,8,6,6,0,4,2,1,1,3.85,31,116,66,1,0,0,1,26,1,1,0,0,0,0,5,4,Angel Hernandez,"C.Heston (5-48), H.Strickland (5-H), J.Lopez (0-H), S.Casilla (2-BL)",2015
+80,Jul 2,@,MIA,"L,4-5",8.0,8,5,5,0,5,4,2,0,3.87,36,121,69,2,0,1,0,31,1,1,0,0,0,0,1,4,Scott Barry,"M.Cain (99-31-L), M.Broadway (5), J.Machi (1), G.Kontos (1)",2015
+81,Jul 3,@,WSN,"L,1-2",8.0,3,2,2,0,6,6,1,0,3.85,32,118,67,1,0,0,0,26,1,0,1,0,0,0,1,3,John Hirschbeck,"J.Peavy (76-59-L), H.Strickland (1), J.Osich (99)",2015
+82,Jul 4,@,WSN,"L,3-9",8.0,13,9,9,0,3,6,2,0,3.92,40,144,93,2,2,0,0,36,5,0,1,0,1,0,0,3,Will Little,"M.Bumgarner (5-30-L), Y.Petit (6), J.Machi (1)",2015
+83,Jul 5,@,WSN,"L,1-3",8.0,7,3,3,0,3,6,1,0,3.92,34,123,80,1,1,2,0,31,1,0,0,0,0,1,1,5,Phil Cuzzi,"R.Vogelsong (4-51), J.Osich (1), G.Kontos (2-L), J.Lopez (3), H.Strickland (1)",2015
+84,Jul 6,,NYM,"L,0-3",9.0,7,3,3,0,4,4,0,1,3.91,38,134,80,7,2,0,0,33,2,0,0,0,0,1,1,5,Bill Miller,"C.Heston (4-70), J.Lopez (0), S.Romo (7-L), S.Casilla (4), J.Machi (1)",2015
+85,Jul 7,,NYM,"W,3-0",9.0,4,0,0,0,4,9,0,0,3.86,33,151,103,2,0,0,0,29,3,1,0,0,0,0,1,5,Doug Eddings,"M.Cain (4-73-W), G.Kontos (1-H), H.Strickland (1-H), J.Osich (1-H), S.Casilla (0-Sv)",2015
+86,Jul 8,,NYM,"L,1-4",9.0,8,4,3,1,1,5,1,1,3.85,37,115,83,0,0,0,0,35,0,0,0,0,0,0,0,3,Andy Fletcher,"J.Peavy (4-63-L), J.Osich (0), J.Machi (1)",2015
+87,Jul 10,,PHI,"W,15-2",9.0,10,2,2,0,2,9,1,2,3.83,39,135,93,3,0,1,0,35,1,0,0,0,0,0,1,4,Tim Timmons,"M.Bumgarner (5-50-W), G.Kontos (2), J.Machi (1), Y.Petit (5)",2015
+88,Jul 11,,PHI,"W,8-5",9.0,9,5,5,0,3,7,2,0,3.84,38,150,98,3,0,0,0,35,3,1,0,0,0,0,1,7,Todd Tichenor,"R.Vogelsong (5-45), J.Osich (2-W), H.Strickland (3-H), G.Kontos (0-H), J.Lopez (4), S.Romo (4), S.Casilla (3-Sv)",2015
+89,Jul 12,,PHI,"W,4-2",9.0,9,2,2,0,0,11,0,0,3.82,32,116,82,2,0,0,1,32,1,0,0,0,0,0,3,3,Gabe Morales,"C.Heston (5-63-W), J.Osich (0-H), S.Casilla (0-Sv)",2015
+90,Jul 17,@,ARI,"W,6-5",12.0,14,5,5,0,3,14,1,0,3.82,52,204,136,5,0,1,0,47,5,2,0,0,2,0,1,10,Mike Estabrook,"M.Cain (9-40), J.Machi (6), G.Kontos (5), J.Osich (4), H.Strickland (5), S.Romo (5), J.Lopez (5), Y.Petit (6), S.Casilla (4), R.Vogelsong (5-W)",2015
+91,Jul 18,@,ARI,"W,8-4",9.0,10,4,4,0,2,8,2,0,3.82,38,142,100,2,0,0,0,36,2,1,0,0,0,0,1,4,Jim Reynolds,"J.Peavy (9-44-W), H.Strickland (0-H), J.Osich (0), S.Romo (0-Sv)",2015
+92,Jul 19,@,ARI,"W,2-1",9.0,9,1,1,0,1,4,0,0,3.79,37,141,91,0,0,1,0,36,1,0,0,0,0,0,0,5,Paul Nauert,"M.Bumgarner (8-57-W), G.Kontos (1-H), J.Lopez (1-H), H.Strickland (0-H), S.Casilla (1-Sv)",2015
+93,Jul 20,@,SDP,"L,2-4",8.0,10,4,4,0,4,6,1,1,3.80,37,164,95,3,1,0,0,31,2,1,0,0,1,0,1,3,Clint Fagan,"T.Hudson (23-39-L), Y.Petit (2), R.Vogelsong (2)",2015
+94,Jul 21,@,SDP,"W,9-3",9.0,4,3,0,3,2,7,0,1,3.76,33,150,92,2,0,0,0,29,1,0,0,0,1,1,2,3,Chad Fairchild,"C.Heston (8-80-W), J.Osich (2), H.Strickland (1)",2015
+95,Jul 22,@,SDP,"W,7-1",9.0,6,1,1,0,3,8,1,0,3.73,35,152,94,3,0,1,1,32,1,0,0,0,0,1,0,6,Sam Holbrook,"M.Cain (4-63-W), G.Kontos (2-H), J.Affeldt (26), S.Romo (3), Y.Petit (1), J.Lopez (2)",2015
+96,Jul 24,,OAK,"W,9-3",9.0,8,3,3,0,0,5,1,0,3.72,34,143,93,3,1,0,0,33,1,0,0,1,0,0,1,5,D.J. Reyburn,"J.Peavy (5-52-W), G.Kontos (1), H.Strickland (2), J.Lopez (1), R.Vogelsong (3)",2015
+97,Jul 25,,OAK,"W,2-1",9.0,6,1,1,0,4,9,0,0,3.69,37,131,80,0,0,0,0,33,2,1,0,0,0,0,0,3,Joe West,"M.Bumgarner (5-68-W), S.Romo (2-H), S.Casilla (5-Sv)",2015
+98,Jul 26,,OAK,"W,4-3",9.0,8,3,3,0,1,5,0,0,3.68,35,144,97,1,0,0,2,34,2,0,0,0,0,1,0,5,Kerwin Danley,"T.Hudson (5-42-W), J.Affeldt (3-H), G.Kontos (1-H), J.Lopez (1-H), S.Casilla (0-Sv)",2015
+99,Jul 27,,MIL,"W,4-2",9.0,7,2,2,0,3,8,0,0,3.67,33,121,80,0,0,0,1,30,2,0,0,0,0,0,3,3,Will Little,"C.Heston (5-60-W), H.Strickland (2-H), S.Romo (1-Sv)",2015
+100,Jul 28,,MIL,"L,2-5",9.0,9,5,5,0,0,6,0,0,3.68,36,128,92,0,0,0,0,34,3,2,0,0,2,0,0,3,Tony Randazzo,"M.Cain (5-43-L), Y.Petit (5), R.Vogelsong (3)",2015
+101,Jul 29,,MIL,"W,5-0",9.0,6,0,0,0,1,5,0,0,3.64,33,135,91,0,0,1,0,31,0,0,0,1,0,0,0,4,Phil Cuzzi,"J.Peavy (4-67), H.Strickland (1-W), S.Romo (1), J.Lopez (2)",2015
+102,Jul 31,@,TEX,"L,3-6",8.0,10,6,6,0,0,10,2,0,3.67,33,112,77,0,0,0,0,32,2,0,0,1,0,0,1,2,Mark Ripperger,"M.Bumgarner (5-43-L), J.Affeldt (4)",2015
+2015
+103,Aug 1,@,TEX,"W,9-7",11.0,13,7,6,1,3,6,0,0,3.69,48,185,115,5,2,0,0,43,5,0,0,0,2,0,0,8,Jeff Kellogg,"C.Heston (4-38), J.Affeldt (0), G.Kontos (5), R.Vogelsong (3), J.Lopez (2), Y.Petit (3), H.Strickland (2-W), S.Casilla (5-Sv)",2015
+104,Aug 2,@,TEX,"L,1-2",8.0,8,2,2,0,3,5,1,0,3.67,33,112,73,1,0,0,0,30,2,0,0,0,0,0,2,3,Ben May,"M.Leake (4-52-L), J.Lopez (0), S.Romo (3)",2015
+105,Aug 3,@,ATL,"L,8-9",11.0,17,9,8,1,2,4,4,1,3.71,52,170,116,1,1,1,0,49,2,0,1,0,0,1,2,8,Dan Iassogna,"M.Cain (5-31), G.Kontos (1-H), H.Strickland (1-H), S.Romo (0-H), J.Lopez (0-H), S.Casilla (1-BSv), Y.Petit (1), R.Vogelsong (1-BL)",2015
+106,Aug 4,@,ATL,"W,8-3",9.0,9,3,3,0,1,11,0,0,3.70,37,161,113,3,1,0,1,35,0,0,0,1,0,1,0,5,Lance Barrett,"J.Peavy (5-65), G.Kontos (0-BSv), J.Affeldt (2-W), S.Romo (0-H), Y.Petit (0)",2015
+107,Aug 5,@,ATL,"W,6-1",9.0,7,1,1,0,1,11,0,0,3.67,35,141,96,1,0,0,0,34,2,0,0,0,0,0,0,3,Dale Scott,"M.Bumgarner (4-69-W), H.Strickland (1), S.Casilla (1)",2015
+108,Aug 6,@,CHC,"L,4-5",8.0,8,5,5,0,4,6,1,1,3.69,37,156,88,2,0,1,0,32,0,0,0,0,0,0,0,6,Manny Gonzalez,"C.Heston (4-31-L), J.Affeldt (1), G.Kontos (1), J.Lopez (2), H.Strickland (0), S.Romo (1)",2015
+109,Aug 7,@,CHC,"L,3-7",8.0,12,7,7,0,2,12,1,0,3.73,38,153,104,4,4,3,0,36,4,0,0,0,0,0,0,4,Paul Schrieber,"R.Vogelsong (3-43-L), J.Affeldt (0), Y.Petit (2), J.Osich (16)",2015
+110,Aug 8,@,CHC,"L,6-8",8.0,11,8,8,0,6,4,1,2,3.77,39,161,98,3,3,0,1,31,2,1,0,0,0,0,3,5,Fieldin Culbreth,"M.Cain (4-27-L), G.Kontos (1), H.Strickland (1), S.Casilla (2), J.Lopez (1)",2015
+111,Aug 9,@,CHC,"L,0-2",8.0,4,2,2,0,2,9,0,0,3.76,30,132,91,0,0,0,0,27,0,1,0,0,1,0,0,3,Jim Reynolds,"J.Peavy (4-55-L), H.Strickland (0), J.Affeldt (1)",2015
+112,Aug 11,,HOU,"W,3-1",9.0,5,1,1,0,0,12,0,0,3.73,31,105,70,,,1,1,31,0,1,0,0,0,0,0,1,Dana DeMuth,M.Bumgarner (5-85-W),2015
+113,Aug 12,,HOU,"L,0-2",9.0,5,2,2,0,6,6,2,0,3.72,35,147,83,4,0,0,2,29,0,0,0,0,0,0,1,5,Mike Estabrook,"C.Heston (5-63-L), J.Osich (4), G.Kontos (3), J.Lopez (3), S.Romo (5)",2015
+114,Aug 13,,WSN,"W,3-1",9.0,5,1,1,0,4,14,1,0,3.69,36,137,86,0,0,1,0,32,1,0,0,0,0,0,0,4,Laz Diaz,"R.Vogelsong (5-61-W), H.Strickland (3-H), S.Romo (0-H), S.Casilla (4-Sv)",2015
+115,Aug 14,,WSN,"W,8-5",9.0,7,5,5,0,1,6,2,2,3.70,39,128,83,5,0,1,0,34,2,0,0,1,1,2,0,6,Chris Guccione,"M.Cain (5-34), J.Affeldt (4-W), G.Kontos (1-H), J.Osich (1-H), S.Romo (0-H), J.Lopez (1)",2015
+116,Aug 15,,WSN,"W,12-6",9.0,10,6,6,0,3,4,2,0,3.72,39,123,73,1,0,0,0,36,2,1,0,0,0,1,2,3,Cory Blaser,"J.Peavy (5-30-W), G.Kontos (0), Y.Petit (7)",2015
+117,Aug 16,,WSN,"W,5-0",9.0,3,0,0,0,1,14,0,0,3.69,31,112,76,,,1,0,29,0,0,0,1,0,0,0,1,Jeff Nelson,M.Bumgarner (4-94-W),2015
+118,Aug 17,@,STL,"L,1-2",8.0,6,2,2,0,6,6,1,0,3.68,35,148,90,1,0,0,1,28,0,1,1,1,0,0,0,4,Bob Davidson,"C.Heston (4-51), Y.Petit (1), J.Affeldt (2), H.Strickland (3-L)",2015
+119,Aug 18,@,STL,"W,2-0",9.0,2,0,0,0,2,11,0,0,3.65,31,146,93,1,0,1,0,29,1,0,0,0,0,0,0,5,Hunter Wendelstedt,"R.Vogelsong (4-72-W), J.Osich (3-H), S.Romo (3-H), J.Lopez (3), S.Casilla (4-Sv)",2015
+120,Aug 19,@,STL,"L,3-4",8.0,9,4,4,0,2,7,2,0,3.66,35,127,84,3,0,0,0,32,1,0,0,1,0,0,0,5,Mike Everitt,"M.Cain (4-57), J.Osich (0-BSv), H.Strickland (1-L), J.Lopez (0), G.Kontos (3)",2015
+121,Aug 20,@,PIT,"L,0-4",8.0,9,4,4,0,1,9,1,1,3.66,34,127,87,0,0,2,0,32,2,0,0,0,0,0,1,2,Toby Basner,"J.Peavy (4-46-L), Y.Petit (2)",2015
+122,Aug 21,@,PIT,"W,6-4",9.0,10,4,4,0,2,7,0,1,3.66,38,148,95,3,0,0,0,34,2,0,0,0,1,0,2,4,Phil Cuzzi,"M.Bumgarner (4-54-W), S.Romo (2-H), J.Osich (1-H), S.Casilla (2-Sv)",2015
+123,Aug 22,@,PIT,"L,2-3",8.2,4,3,3,0,1,9,3,0,3.66,29,112,76,0,0,0,2,28,1,0,0,0,0,0,0,3,Gerry Davis,"M.Leake (19-71), H.Strickland (2), G.Kontos (2-L)",2015
+124,Aug 23,@,PIT,"L,2-5",8.0,11,5,5,0,4,5,2,0,3.67,39,143,88,2,0,1,0,34,0,1,1,0,1,0,0,5,Tony Randazzo,"R.Vogelsong (4-32-L), Y.Petit (2), J.Affeldt (5), J.Osich (1), H.Strickland (0)",2015
+125,Aug 25,,CHC,"L,5-8",9.0,10,8,7,1,4,5,3,0,3.70,39,140,87,0,0,0,0,35,2,0,0,0,0,1,3,5,Lance Barksdale,"M.Cain (5-28-L), Y.Petit (1), J.Lopez (5), G.Kontos (2), M.Broadway (53)",2015
+126,Aug 26,,CHC,"W,4-2",9.0,6,2,2,0,3,7,0,0,3.69,34,122,90,4,0,1,0,31,3,0,0,0,0,0,1,5,Ryan Blakney,"J.Peavy (5-53-W), H.Strickland (2-H), J.Lopez (0-H), S.Romo (4-H), S.Casilla (4-Sv)",2015
+127,Aug 27,,CHC,"W,9-1",9.0,3,1,1,0,2,16,0,0,3.67,32,144,93,0,0,0,0,30,1,0,0,0,0,0,0,4,Gary Cederstrom,"M.Bumgarner (5-74-W), G.Kontos (1), M.Broadway (1), J.Osich (3)",2015
+128,Aug 28,,STL,"W,5-4",9.0,7,4,4,0,1,5,0,0,3.67,34,122,80,2,0,0,0,33,1,0,0,0,0,0,0,4,Tripp Gibson,"M.Leake (5-48), J.Osich (0), S.Romo (1), J.Lopez (1-W)",2015
+129,Aug 29,,STL,"L,0-6",9.0,13,6,6,0,4,8,0,0,3.69,41,168,105,3,3,0,0,37,1,3,1,0,0,0,3,4,Gabe Morales,"R.Vogelsong (5-34-L), G.Kontos (1), Y.Petit (3), M.Broadway (1)",2015
+130,Aug 30,,STL,"L,5-7",9.0,13,7,7,0,3,6,3,0,3.71,41,149,100,6,0,0,0,38,3,1,0,0,0,0,1,7,Eric Cooper,"C.Heston (12-24-L), G.Kontos (0), J.Lopez (1), H.Strickland (3), M.Broadway (0), J.Osich (1), S.Casilla (3)",2015
+131,Aug 31,@,LAD,"L,4-5",13.0,12,5,5,0,6,9,2,0,3.71,57,221,132,6,1,4,0,50,2,0,3,1,0,0,0,9,Marty Foster,"J.Peavy (4-45), J.Osich (0), H.Strickland (0), J.Lopez (0), S.Romo (2), S.Casilla (0), G.Kontos (0), M.Broadway (0-L), Y.Petit (1)",2015
+2015
+132,Sep 1,@,LAD,"L,1-2",8.0,9,2,2,0,1,9,1,0,3.70,34,122,81,1,0,1,0,33,1,0,0,0,0,0,0,3,Mike Winters,"M.Bumgarner (4-60-L), T.Hudson (36), H.Strickland (0)",2015
+133,Sep 2,@,LAD,"L,1-2",8.0,6,2,2,0,0,5,1,1,3.69,29,89,61,0,0,1,0,28,1,0,0,0,0,0,1,2,Mike Muchlinski,"M.Leake (4-62-L), J.Osich (1)",2015
+134,Sep 3,@,COL,"L,3-11",8.0,19,11,10,1,0,3,3,0,3.74,42,145,98,2,1,1,0,41,2,1,0,1,0,1,2,5,Pat Hoberg,"R.Vogelsong (4-8-L), G.Kontos (2), T.Hudson (1), C.Hall (99), M.Broadway (2)",2015
+135,Sep 4,@,COL,"L,1-2",8.0,7,2,2,0,2,6,2,0,3.73,32,122,78,2,0,0,0,30,0,0,0,0,0,0,1,4,Jim Joyce,"C.Heston (4-49-L), H.Strickland (2), J.Osich (1), S.Romo (3)",2015
+136,Sep 5,@,COL,"W,7-3",9.0,5,3,3,0,2,5,1,0,3.73,34,133,87,0,0,0,0,32,1,1,0,0,0,0,0,5,Kerwin Danley,"J.Peavy (4-53-W), J.Lopez (4-H), H.Strickland (0), J.Osich (0), S.Casilla (4)",2015
+137,Sep 6,@,COL,"W,7-4",9.0,9,4,4,0,1,5,0,0,3.73,36,136,92,0,0,0,0,33,1,0,0,1,1,0,1,5,Chad Fairchild,"M.Bumgarner (4-40-W), H.Strickland (0-H), J.Lopez (0-H), S.Romo (1-H), S.Casilla (0-Sv)",2015
+138,Sep 7,@,ARI,"L,1-6",8.0,12,6,6,0,4,6,2,0,3.75,37,129,85,0,0,0,0,32,2,0,1,0,1,0,3,3,Adam Hamari,"M.Leake (4-25-L), G.Kontos (3), R.Vogelsong (3)",2015
+139,Sep 8,@,ARI,"W,6-2",9.0,5,2,2,0,0,8,1,0,3.73,31,112,81,0,0,0,0,30,0,0,0,0,1,0,0,5,Angel Hernandez,"T.Hudson (4-64-W), J.Osich (2), H.Strickland (1-H), S.Romo (1-H), S.Casilla (1)",2015
+140,Sep 9,@,ARI,"L,1-2",8.0,7,2,2,0,2,9,1,0,3.72,33,106,73,3,0,0,1,31,2,0,1,0,0,1,0,5,Chris Conroy,"C.Heston (4-49-L), J.Affeldt (16), G.Kontos (1), M.Broadway (5), J.Osich (0)",2015
+141,Sep 11,,SDP,"W,9-1",9.0,4,1,1,0,0,5,1,1,3.71,32,118,79,0,0,0,0,31,0,0,0,0,0,0,0,4,Laz Diaz,"J.Peavy (5-71-W), C.Gearrin (99), J.Lopez (4), B.Bochy (99)",2015
+142,Sep 12,,SDP,"W,8-0",9.0,1,0,0,0,0,9,0,0,3.68,28,111,75,,,0,0,28,0,0,0,0,0,0,0,1,John Tumpane,M.Bumgarner (5-94-W),2015
+143,Sep 13,,SDP,"W,10-3",9.0,5,3,3,0,2,4,1,0,3.67,34,120,72,1,0,0,0,32,1,2,0,0,0,0,1,5,James Hoye,"M.Leake (5-52-W), J.Osich (3-H), S.Romo (4), J.Lopez (1), S.Casilla (4)",2015
+144,Sep 14,,CIN,"W,5-3",9.0,7,3,3,0,4,9,1,0,3.67,38,139,92,7,2,0,0,34,1,0,0,0,0,0,0,7,Paul Emmel,"T.Hudson (5-51), J.Lopez (0), G.Kontos (4-W), H.Strickland (5-H), J.Osich (0-H), S.Romo (0-H), S.Casilla (0-Sv)",2015
+145,Sep 15,,CIN,"L,8-9",10.0,9,9,4,5,6,12,1,1,3.67,45,175,103,6,4,1,0,37,0,1,0,1,0,2,1,9,Andy Fletcher,"C.Heston (5-53), M.Broadway (5-H), J.Osich (0-H), J.Lopez (0), H.Strickland (0-BSv), G.Kontos (0), J.Affeldt (5), C.Hall (11), S.Romo (0-L)",2015
+146,Sep 16,,CIN,"W,5-3",9.0,10,3,3,0,3,10,0,1,3.66,40,142,91,5,1,3,0,36,5,1,1,0,0,0,1,6,Clint Fagan,"J.Peavy (4-57-W), C.Gearrin (4-H), J.Lopez (0-H), M.Broadway (0), H.Strickland (0-H), S.Casilla (1-Sv)",2015
+147,Sep 18,,ARI,"L,0-2",9.0,5,2,1,1,3,8,0,0,3.65,34,131,79,0,0,0,0,31,1,1,1,0,0,0,1,4,Brian Knight,"M.Bumgarner (5-70-L), C.Gearrin (1), J.Affeldt (2), G.Kontos (2)",2015
+148,Sep 19,,ARI,"L,0-6",9.0,17,6,6,0,5,7,0,0,3.66,48,161,109,1,0,3,0,43,1,0,0,0,0,1,1,6,Vic Carapazza,"M.Leake (5-30-L), Y.Petit (18), M.Cain (24), C.Hall (3), B.Bochy (7), M.Broadway (2)",2015
+149,Sep 20,,ARI,"W,5-1",9.0,6,1,1,0,3,8,1,0,3.64,33,113,79,0,0,1,1,30,1,0,0,0,0,0,2,4,Ron Kulpa,"T.Hudson (5-64-W), H.Strickland (3), S.Romo (4), S.Casilla (3)",2015
+150,Sep 22,@,SDP,"W,4-2",9.0,6,2,2,0,5,11,2,1,3.63,38,163,95,3,0,1,1,32,0,0,0,0,0,0,0,5,D.J. Reyburn,"C.Heston (6-61), G.Kontos (3-W), H.Strickland (1-H), S.Romo (1-H), S.Casilla (1-Sv)",2015
+151,Sep 23,@,SDP,"L,4-5",8.2,11,5,5,0,5,6,0,0,3.64,42,163,93,11,3,0,0,37,4,0,2,0,0,0,0,10,Stu Scheurwater,"J.Peavy (6-67), C.Gearrin (4), J.Osich (7-BSv), H.Strickland (0), S.Romo (0-BSv), J.Lopez (6), M.Broadway (3), G.Kontos (0-L), J.Affeldt (4), S.Casilla (0)",2015
+152,Sep 24,@,SDP,"L,4-5",8.1,6,5,5,0,5,10,1,0,3.65,36,145,91,4,2,1,0,30,3,0,1,1,0,0,0,6,Joe West,"M.Bumgarner (5-65), H.Strickland (0), J.Lopez (0-H), S.Romo (0-BSv), M.Broadway (0-L), J.Osich (0)",2015
+153,Sep 25,@,OAK,"L,4-5",8.0,9,5,5,0,2,4,2,0,3.67,35,125,82,1,0,0,0,33,2,1,0,0,0,0,0,3,Adrian Johnson,"M.Leake (5-45-L), J.Affeldt (1), Y.Petit (5)",2015
+154,Sep 26,@,OAK,"W,14-10",9.0,11,10,9,1,6,4,1,2,3.70,46,151,84,7,0,0,0,38,4,0,0,0,0,1,1,8,Bill Miller,"T.Hudson (5-39), R.Vogelsong (18), C.Hall (6), M.Cain (6), J.Osich (1-W), S.Romo (1), J.Lopez (1), S.Casilla (2-Sv)",2015
+155,Sep 27,@,OAK,"W,5-4",9.0,8,4,4,0,3,7,0,1,3.70,37,147,90,3,1,0,0,33,2,1,0,0,0,0,2,6,Jim Wolf,"C.Heston (4-40-W), G.Kontos (3-H), C.Gearrin (3-H), J.Lopez (0-H), H.Strickland (2-H), S.Casilla (0-Sv)",2015
+156,Sep 28,,LAD,"W,3-2",12.0,9,2,2,0,2,6,0,0,3.68,46,147,103,6,1,1,0,42,1,0,0,2,0,0,1,6,Paul Nauert,"J.Peavy (4-70), J.Osich (1-H), S.Casilla (0-BSv), J.Lopez (0), S.Romo (1), H.Strickland (0-W)",2015
+157,Sep 29,,LAD,"L,0-8",9.0,11,8,7,1,1,8,3,1,3.70,42,168,114,2,2,0,0,39,0,1,0,0,1,2,0,5,Dana DeMuth,"M.Bumgarner (4-50-L), C.Gearrin (1), J.Affeldt (3), M.Broadway (4), C.Hall (2)",2015
+158,Sep 30,,LAD,"W,5-0",9.0,2,0,0,0,3,1,0,0,3.68,30,104,69,,,0,0,27,0,0,0,0,0,0,2,1,Mike Estabrook,M.Leake (4-81-W),2015
+159,Oct 1,,LAD,"L,2-3",9.0,6,3,3,0,4,10,0,0,3.68,37,153,93,2,2,0,0,32,1,1,0,0,1,0,1,5,Ed Hickox,"T.Hudson (4-38-L), J.Affeldt (1), R.Vogelsong (4), J.Osich (2), S.Romo (2)",2015
+160,Oct 2,,COL,"L,3-9",9.0,9,9,9,0,2,8,2,0,3.71,38,132,88,1,0,1,0,36,4,0,0,0,0,0,0,6,Jerry Meals,"C.Heston (4-15-L), Y.Petit (6), C.Hall (2), B.Bochy (12), M.Broadway (2), S.Casilla (3)",2015
+161,Oct 3,,COL,"W,3-2",9.0,7,2,2,0,1,7,1,0,3.70,34,151,98,1,0,0,0,32,2,0,0,1,0,0,0,6,Jordan Baker,"J.Peavy (4-56-W), J.Osich (1-H), S.Romo (1-H), G.Kontos (5-H), J.Lopez (4-H), S.Casilla (0-Sv)",2015
+162,Oct 4,,COL,"L,3-7",9.0,9,7,7,0,2,2,1,0,3.72,39,132,84,4,4,1,0,37,0,1,0,0,0,1,0,11,Carlos Torres,"M.Cain (7-63), J.Affeldt (2-H), C.Gearrin (4-H), S.Romo (0-H), B.Bochy (1-H), M.Broadway (1-H), J.Osich (0-H), J.Lopez (0-H), G.Kontos (0-BL), C.Hall (1), Y.Petit (1)",2015
